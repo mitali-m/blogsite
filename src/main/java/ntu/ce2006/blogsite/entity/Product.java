@@ -2,6 +2,8 @@ package ntu.ce2006.blogsite.entity;
 
 /**
  * @author mitali
+ * 
+ * This is a regular java bean AKA entity. These classes represent objects of real life entities.
  *
  */
 

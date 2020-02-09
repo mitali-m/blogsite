@@ -27,6 +27,7 @@ public class ControllerView {
 	//dependency injection
 	@Autowired
 	private MainModel mainModel;
+
 	
 	//The request mapping is actually the URI(uniform resource identifier -> http://www.website.com/uri) that comes from the browser.
 	//You can have multiple request methods ie. both get and post

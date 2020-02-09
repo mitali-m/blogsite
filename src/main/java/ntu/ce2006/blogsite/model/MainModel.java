@@ -1,11 +1,12 @@
 package ntu.ce2006.blogsite.model;
 
-import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
+import ntu.ce2006.blogsite.dao.ProductRepository;
 import ntu.ce2006.blogsite.entity.Product;
 
 /**
@@ -21,14 +22,13 @@ import ntu.ce2006.blogsite.entity.Product;
 @Component //to make SB manage the life cycle of the objects of this class => no need to instantiate to call the methods
 public class MainModel {
 	
+	@Autowired
+	private ProductRepository productRepository;
+	
+	
 	public List<Product> getProducts() {
-		//Here we can connect to a database using standard JDBC and return a collection of records
-		List<Product> products = new ArrayList<Product>();
-		products.add(new Product("prod1", "TV", "Samsung 55 inch TV", 1000));
-		products.add(new Product("prod2", "Laptop", "Dell Precision 7500", 5000));
-		products.add(new Product("prod3", "Mobile", "Apple XI", 10));
-		
-		return products;
+		//Here we can call a DAO and return a collection of records
+		return productRepository.findall();
 	}
 	
 	
