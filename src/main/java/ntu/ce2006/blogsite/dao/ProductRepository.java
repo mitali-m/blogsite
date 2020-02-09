@@ -33,6 +33,11 @@ import ntu.ce2006.blogsite.entity.Product;
 @Repository
 public class ProductRepository {
 
+	/**
+	 * The JdbcTemplate will manage the DB connection pooling, connection release etc. Otherwise we have to manually
+	 * load the JDBC driver, manage multiple connections (pool), ensure that we release the connections once done else
+	 * the DB will run out of connections.
+	 */
 	@Autowired
     private JdbcTemplate jdbcTemplate;
 	
