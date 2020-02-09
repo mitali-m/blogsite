@@ -10,11 +10,11 @@
 	</parent>
 
   <groupId>ntu.ce2006</groupId>
-  <artifactId>flipbasket</artifactId>
-  <version>V1</version>
+  <artifactId>blogsite</artifactId>
+  <version>v1</version>
   <packaging>war</packaging> <!-- jar for jar file and war for war file depending on requirement -->
 
-  <name>flipbasket</name>
+  <name>blogsite</name>
   <url>http://maven.apache.org</url>
 
   <properties>
