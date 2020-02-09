@@ -1,11 +1,14 @@
 package ntu.ce2006.blogsite.dao;
 
+import java.util.ArrayList;
 import java.util.List;
 import java.util.logging.Logger;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.jdbc.core.JdbcTemplate;
 import org.springframework.stereotype.Repository;
+
+import com.netflix.hystrix.contrib.javanica.annotation.HystrixCommand;
 
 import ntu.ce2006.blogsite.entity.Product;
 
@@ -56,16 +59,28 @@ public class ProductRepository {
 	 * 
 	 * @return a list of products
 	 */
+	@HystrixCommand(fallbackMethod = "findAllFallback")
 	public List<Product> findall() {
 		logger.info("Product repository findall function invoked.");
 		List<Product> result = jdbcTemplate.query(
-				"select id as id, name as productName, description as productDescription, price as productPrice " +
-				"from ecomm.products order by id", 
+				"select id, product_name as productName, version as productVersion, product_price as productPrice, stock " +
+				"from blogsite.products order by id", 
 				(row, rowNum) -> new Product(row.getString("id"), row.getString("productName"),
-											 row.getString("productDescription"), row.getDouble("productPrice"))
+											 row.getString("productVersion"), row.getDouble("productPrice"),
+											 row.getInt("stock"))
 		);
 		
 		return result;
+	}
+	
+	
+	//This is the failover method and should accept the same arguments as the original method (if it had)
+	public List<Product> findAllFallback() {
+		logger.info("Circuit broken: ProductRepository.findAllFallback");
+		List<Product> products = new ArrayList<Product>();
+		products.add(new Product("prod1", "Samsung 55 inch TV", "5", 1000, 1));
+		
+		return products;
 	}
 	
 	

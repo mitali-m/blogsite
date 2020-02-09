@@ -11,17 +11,35 @@ public class Product {
 
 	private String id;
 	private String productName;
-	private String productDescription;
+	private String productVersion;
 	private double productPrice;
+	private int stock;
 
 	
-	public Product(String id, String productName, String productDescription, double productPrice) {
+	public Product(String id, String productName, String productVersion, double productPrice, int stock) {
 		this.id = id;
 		this.productName = productName;
-		this.productDescription = productDescription;
+		this.productVersion = productVersion;
 		this.productPrice = productPrice;
+		this.stock = stock;
 	}
 	
+	public String getProductVersion() {
+		return productVersion;
+	}
+
+	public void setProductVersion(String productVersion) {
+		this.productVersion = productVersion;
+	}
+
+	public int getStock() {
+		return stock;
+	}
+
+	public void setStock(int stock) {
+		this.stock = stock;
+	}
+
 	public String getId() {
 		return id;
 	}
@@ -47,11 +65,11 @@ public class Product {
 	}
 
 	public String getProductDescription() {
-		return productDescription;
+		return productVersion;
 	}
 
 	public void setProductDescription(String productDescription) {
-		this.productDescription = productDescription;
+		this.productVersion = productDescription;
 	}
 	
 }

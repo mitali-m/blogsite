@@ -7,6 +7,7 @@ import org.springframework.boot.CommandLineRunner;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.web.servlet.support.SpringBootServletInitializer;
+import org.springframework.cloud.client.circuitbreaker.EnableCircuitBreaker;
 import org.springframework.context.ApplicationContext;
 import org.springframework.context.annotation.Bean;
 
@@ -17,6 +18,7 @@ import ntu.ce2006.blogsite.App;
  *
  */
 
+@EnableCircuitBreaker		//Circuit breaker is now enabled for the whole application
 //This is the main entry point of the application just like a regular java program, except that it starts the web server
 //tells the java that this is a web app and needs to start the tomcat
 @SpringBootApplication		//Standard spring boot application annotation. 
