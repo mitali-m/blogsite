@@ -1,0 +1,9 @@
+
+		<br/>
+		<div id="footer">
+		   <p>Copyright &copy; 2020 Mitali Mukherjee All rights reserved. Current Server Time ${time}</p>
+		</div> 
+
+	</body>
+</html>
+
