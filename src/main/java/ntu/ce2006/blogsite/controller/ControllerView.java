@@ -1,14 +1,15 @@
-package ntu.ce2006.flipbasket.controller;
+package ntu.ce2006.blogsite.controller;
 
 import java.util.Date;
 import java.util.Map;
 
+import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RequestParam;
 
-import ntu.ce2006.flipbasket.model.MainModel;
+import ntu.ce2006.blogsite.model.MainModel;
 
 
 /**
@@ -22,7 +23,11 @@ import ntu.ce2006.flipbasket.model.MainModel;
 
 @Controller
 public class ControllerView {
-
+	
+	//dependency injection
+	@Autowired
+	private MainModel mainModel;
+	
 	//The request mapping is actually the URI(uniform resource identifier -> http://www.website.com/uri) that comes from the browser.
 	//You can have multiple request methods ie. both get and post
 	@RequestMapping(value = "/", method = RequestMethod.GET)
@@ -50,7 +55,7 @@ public class ControllerView {
 								) {
 		System.out.println("Login form recieved from browser.");
 		//Creating the model and passing the form data for processing
-		boolean loginResult = new MainModel().adminLogIn(uid, pwd);
+		boolean loginResult = mainModel.adminLogIn(uid, pwd); //the autowired one defined on the top is used here
 		model.put("time", new Date());
 		if(loginResult) {
 			return "home";

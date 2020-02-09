@@ -1,4 +1,4 @@
-package ntu.ce2006.flipbasket;
+package ntu.ce2006.blogsite;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

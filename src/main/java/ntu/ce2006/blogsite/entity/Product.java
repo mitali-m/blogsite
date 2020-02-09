@@ -1,4 +1,4 @@
-package ntu.ce2006.flipbasket.entity;
+package ntu.ce2006.blogsite.entity;
 
 /**
  * @author mitali

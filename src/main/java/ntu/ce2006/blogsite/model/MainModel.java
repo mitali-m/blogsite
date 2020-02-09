@@ -1,11 +1,12 @@
-package ntu.ce2006.flipbasket.model;
+package ntu.ce2006.blogsite.model;
 
 import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.commons.lang3.StringUtils;
+import org.springframework.stereotype.Component;
 
-import ntu.ce2006.flipbasket.entity.Product;
+import ntu.ce2006.blogsite.entity.Product;
 
 /**
  * @author mitali
@@ -13,8 +14,13 @@ import ntu.ce2006.flipbasket.entity.Product;
  * Just a regular java class that contains any application logic. Such classes can interact with databases or
  * file system and return the data after processing back to the controller which in turn will send to the UI
  * or depending on the controller type will return raw data as JSON
+ * 
+ * @Component is a generic stereotype for any Spring-managed component
  */
+
+@Component //to make SB manage the life cycle of the objects of this class => no need to instantiate to call the methods
 public class MainModel {
+	
 	public List<Product> getProducts() {
 		//Here we can connect to a database using standard JDBC and return a collection of records
 		List<Product> products = new ArrayList<Product>();

@@ -1,4 +1,4 @@
-package ntu.ce2006.flipbasket.controller;
+package ntu.ce2006.blogsite.controller;
 
 import java.util.List;
 import java.util.Map;
@@ -7,8 +7,8 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RequestMethod;
 import org.springframework.web.bind.annotation.RestController;
 
-import ntu.ce2006.flipbasket.entity.Product;
-import ntu.ce2006.flipbasket.model.MainModel;
+import ntu.ce2006.blogsite.entity.Product;
+import ntu.ce2006.blogsite.model.MainModel;
 
 
 /**
