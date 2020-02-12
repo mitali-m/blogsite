@@ -1,4 +1,6 @@
+<!-- taglib populates the data received from modelData and the syntax starts with dollar and curly brackets -->
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
+
 <%@include file="header.jspf" %>
 
 <h1>Welcome!!</h1><br/>		

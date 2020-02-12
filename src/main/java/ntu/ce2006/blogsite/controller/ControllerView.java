@@ -32,24 +32,26 @@ public class ControllerView {
 	//The request mapping is actually the URI(uniform resource identifier -> http://www.website.com/uri) that comes from the browser.
 	//You can have multiple request methods ie. both get and post
 	@RequestMapping(value = "/", method = RequestMethod.GET)
-	public String indexPage(Map<String, Object> model) {
-		model.put("time", new Date());
+	public String indexPage(Map<String, Object> modelData) {
+		modelData.put("time", new Date());
 		System.out.println("Request from browser recieved. sending to index.jsp");
 		return "index";		//Look at the application.properties for the suffix and prefix
 	}
 	
 	
+	//Variable modelData can carry values from the controller to the view
+	//Controller will populate the modelData based on the return value from MainModel
 	@RequestMapping(value = "/home", method = RequestMethod.GET)
-	public String homePage(Map<String, Object> model) {
+	public String homePage(Map<String, Object> modelData) {
 		System.out.println("Request from browser recieved. sending to home.jsp");
-		model.put("time", new Date());
+		modelData.put("time", new Date());
 		return "home";
 	}
 
 	
 	//This method maps to the html form submit action for both get and post	
 	@RequestMapping(value = "/adminlogin", method = RequestMethod.POST)
-	public String adminLogIn(Map<String,Object> model,
+	public String adminLogIn(Map<String,Object> modelData,
 								//The HTML form attributes are easily mapped to variables
 								@RequestParam(value="uid", required=true) String uid,
 								@RequestParam(value="pwd", required=true) String pwd
@@ -57,11 +59,11 @@ public class ControllerView {
 		System.out.println("Login form recieved from browser.");
 		//Creating the model and passing the form data for processing
 		boolean loginResult = mainModel.adminLogIn(uid, pwd); //the autowired one defined on the top is used here
-		model.put("time", new Date());
+		modelData.put("time", new Date());
 		if(loginResult) {
 			return "home";
 		} else {
-			model.put("success", loginResult);
+			modelData.put("success", loginResult);
 			return "index";
 		}
 		
