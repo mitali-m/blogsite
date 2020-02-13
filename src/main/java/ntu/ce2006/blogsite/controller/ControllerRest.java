@@ -18,7 +18,7 @@ import ntu.ce2006.blogsite.model.MainModel;
  * 
  * This is a rest controller and will always return json
  * 
- * JSON is rendered by any UI framework like ReactJS etc and mobile devices
+ * JSON can be rendered by any UI framework like ReactJS/jQuery/Plotly etc and by apps running on mobile devices
  */
 
 @RestController
