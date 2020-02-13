@@ -3,12 +3,40 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<meta charset="UTF-8">
+	    <!-- Required meta tags -->
+	    <meta charset="utf-8">
+	    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+
 		<title>Mitali's Web Page</title>
 
+		<!-- Custom CSS is where we will have our custom CSS. As far as possible use bootstrap -->
 		<link rel="stylesheet" type="text/css" href="/css/custom.css" />
+		
+
+		<!-- Bootstrap is a very popular CSS which has many styles that can be used by the application
+		     Setup bootstrap in HTML docs are here https://getbootstrap.com/docs/4.4/getting-started/introduction/
+
+		     Some very useful styling URLs are below
+		       Buttons https://getbootstrap.com/docs/4.0/components/buttons/
+		       Colors https://getbootstrap.com/docs/4.0/utilities/colors/
+		       Forms https://getbootstrap.com/docs/4.0/components/forms/
+		-->
+		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 	</head>
 	
 	<body>
-		<a href="/">Index</a>&nbsp;&nbsp;<a href="/home">Home</a>
+		<!-- jQuery is a JS framework that allows for easy browser side javascript development including REST calls etc
+		     Note - Bootstrap's JavaScript requires jQuery. jQuery must be included before Bootstrap's JavaScript.
+		-->
+		<script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+		<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+		<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js" integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo" crossorigin="anonymous"></script>
+		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
+
+		<div class="p-3 mb-2 bg-dark text-white">
+			<h1>Mitali's Blogs</h1>
+		</div>
+		<p class="text-black">
+			<a href="/">Index</a>&nbsp;|&nbsp;<a href="/home">Home</a>
+		</p>
 	

@@ -29,8 +29,17 @@ public class ControllerView {
 	private MainModel mainModel;
 
 	
-	//The request mapping is actually the URI(uniform resource identifier -> http://www.website.com/uri) that comes from the browser.
-	//You can have multiple request methods ie. both get and post
+	/** 
+	 * @param modelData
+	 * @return
+	 * 
+	 * The request mapping is actually the URI(uniform resource identifier -> http://www.website.com/uri) that
+	 * comes from the browser. You can have multiple request methods ie. both get and post
+	 * 
+	 * The method argument "modelData" (name does not matter) is automatically provided by SB so that the controller
+	 * can call the model, get the response and put it in modelData. Subsequently it will be passed on to the UI (jsp)
+	 * for using the data to generate the UI (html) which will be sent back to the browser for rendering
+	 */
 	@RequestMapping(value = "/", method = RequestMethod.GET)
 	public String indexPage(Map<String, Object> modelData) {
 		modelData.put("time", new Date());
