@@ -10,8 +10,7 @@
 		<title>Mitali's Web Page</title>
 
 		<!-- Custom CSS is where we will have our custom CSS. As far as possible use bootstrap -->
-		<link rel="stylesheet" type="text/css" href="/css/custom.css" />
-		
+		<link rel="stylesheet" type="text/css" href="/css/custom.css" />		
 
 		<!-- Bootstrap is a very popular CSS which has many styles that can be used by the application
 		     Setup bootstrap in HTML docs are here https://getbootstrap.com/docs/4.4/getting-started/introduction/
@@ -22,6 +21,8 @@
 		       Forms https://getbootstrap.com/docs/4.0/components/forms/
 		-->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
+		
+		<script src="https://cdn.plot.ly/plotly-latest.min.js"></script>
 	</head>
 	
 	<body>
@@ -37,6 +38,6 @@
 			<h1>Mitali's Blogs</h1>
 		</div>
 		<p class="text-black">
-			<a href="/">Index</a>&nbsp;|&nbsp;<a href="/home">Home</a>
+			<a href="/">Index</a>&nbsp;|&nbsp;<a href="/home">Home</a>&nbsp;|&nbsp;<a href="/dashboard">Dashboard</a>
 		</p>
 	

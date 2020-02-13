@@ -80,13 +80,22 @@ public class ControllerView {
 	
 	
 	@RequestMapping(value = "/createuser", method = RequestMethod.POST)
-	public String createUser(Map<String,Object> model, @RequestParam Map<String,String> formFields) {
-		model.put("time", new Date());
+	public String createUser(Map<String,Object> modelData, @RequestParam Map<String,String> formFields) {
+		System.out.println("recieved the new user form from the browser");
+		modelData.put("time", new Date());
 		formFields.entrySet().forEach(entry->{
 			System.out.println(entry.getKey() + " " + entry.getValue());  
 		 });
 		return "home";
 		
+	}
+	
+	
+	@RequestMapping(value = "/dashboard", method = RequestMethod.GET)
+	public String dashboard(Map<String,Object> modelData) {
+		System.out.println("in dashboard controller");
+		modelData.put("time", new Date());
+		return "dashboard";
 	}
 
 }

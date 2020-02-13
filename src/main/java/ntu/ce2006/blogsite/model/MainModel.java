@@ -7,6 +7,8 @@ import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
 
 import ntu.ce2006.blogsite.dao.ProductRepository;
+import ntu.ce2006.blogsite.dao.RateRepository;
+import ntu.ce2006.blogsite.entity.ExchangeRate;
 import ntu.ce2006.blogsite.entity.Product;
 
 /**
@@ -25,10 +27,19 @@ public class MainModel {
 	@Autowired
 	private ProductRepository productRepository;
 	
+	@Autowired
+	private RateRepository rateRepository;
+	
 	
 	public List<Product> getProducts() {
 		//Here we can call a DAO and return a collection of records
 		return productRepository.findall();
+	}
+	
+	
+	public List<ExchangeRate> getRates() {
+		//Here we can call a DAO and return a collection of records
+		return rateRepository.findall();
 	}
 	
 	
