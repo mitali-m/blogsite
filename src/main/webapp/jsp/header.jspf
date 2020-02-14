@@ -16,9 +16,9 @@
 		     Setup bootstrap in HTML docs are here https://getbootstrap.com/docs/4.4/getting-started/introduction/
 
 		     Some very useful styling URLs are below
-		       Buttons https://getbootstrap.com/docs/4.0/components/buttons/
-		       Colors https://getbootstrap.com/docs/4.0/utilities/colors/
-		       Forms https://getbootstrap.com/docs/4.0/components/forms/
+		       Buttons https://getbootstrap.com/docs/4.4/components/buttons/
+		       Colors https://getbootstrap.com/docs/4.4/utilities/colors/
+		       Forms https://getbootstrap.com/docs/4.4/components/forms/
 		-->
 		<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/css/bootstrap.min.css">
 		
