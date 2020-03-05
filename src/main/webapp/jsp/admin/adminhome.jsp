@@ -1,5 +1,5 @@
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
-<%@include file="header.jspf" %>
+<%@include file="adminheader.jspf" %>
 
 <form name="new_user_form" method="post" action="/createuser" class="needs-validation" novalidate>
   <div class="form-row">
@@ -42,5 +42,5 @@
 </form>
 
 
-<%@include file="footer.jspf" %>
+<%@include file="adminfooter.jspf" %>
 

@@ -57,6 +57,9 @@ public class MainModel {
 	public boolean adminLogIn(String uid, String pwd) {
 		System.out.println("Recieved admin log in details as uid " + uid + " and pwd" + pwd);
 		
+		if(uid == null || pwd == null) {
+			return false;
+		}
 		if(uid.contentEquals("admin") && pwd.contentEquals("1234")) {
 			return true;
 		}
@@ -65,3 +68,6 @@ public class MainModel {
 	}
 
 }
+
+
+

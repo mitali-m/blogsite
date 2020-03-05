@@ -47,7 +47,7 @@
       <div class="navbar-collapse collapse justify-content-end" id="navbarDefault">
         <ul class="navbar-nav">
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="index.html">Home</a>
+            <a class="nav-link js-scroll" href="/">Home</a>
           </li>
         </ul>
       </div>
@@ -77,7 +77,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="emath-blog.html"><img src="img/emath.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=emath-blog"><img src="img/emath.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -85,7 +85,7 @@
                   <h6 class="category">NTU year 1</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="emath-blog.html">Engineering Math</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=emath-blog">Engineering Math</a></h3>
               <p class="card-description">
                 Math was my favourite subject at school. Did it retain its position in university?
               </p>
@@ -107,7 +107,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="dl-blog.html"><img src="img/dl.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=dl-blog"><img src="img/dl.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -115,7 +115,7 @@
                   <h6 class="category">NTU year 1</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="dl-blog.html">Digital Logic</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=dl-blog">Digital Logic</a></h3>
               <p class="card-description">
                 First interaction with hardware - Was I able to manage? What did I learn?
               </p>
@@ -137,7 +137,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="ict-blog.html"><img src="img/ict.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=ict-blog"><img src="img/ict.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -145,7 +145,7 @@
                   <h6 class="category">NTU year 1</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="ict-blog.html">Computational Thinking</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=ict-blog">Computational Thinking</a></h3>
               <p class="card-description">
                 Python, RaspberryPi and Data Structures.. Wait how many subjects is that?
               </p>
@@ -167,7 +167,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="dm-blog.html"><img src="img/dm.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=dm-blog"><img src="img/dm.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -175,7 +175,7 @@
                   <h6 class="category">NTU year 1</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="dm-blog.html">Discrete Math</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=dm-blog">Discrete Math</a></h3>
               <p class="card-description">
                 More math!
               </p>
@@ -275,52 +275,8 @@
   </section>
   <!--/ Section Blog End /-->
   
+  <%@include file="blog-footer.jspf" %>
   
-  <!--/ Section Contact-footer Start /-->
-  <section class="paralax-mf footer-paralax bg-image sect-mt4 route" style="background-image: url(img/overlay-bg.jpg)">
-    <div class="overlay-mf"></div>
-    <footer>
-      <div class="container">
-        <div class="row">
-          <div class="col-sm-12">
-            <div class="copyright-box">
-              <p class="copyright">&copy; Copyright <strong>DevFolio</strong>. All Rights Reserved</p>
-              <div class="credits">
-                <!--
-                  All the links in the footer should remain intact.
-                  You can delete the links only if you purchased the pro version.
-                  Licensing information: https://bootstrapmade.com/license/
-                  Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/buy/?theme=DevFolio
-                -->
-                Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </footer>
-  </section>
-  <!--/ Section Contact-footer End /-->
-
-
-  <a href="#" class="back-to-top"><i class="fa fa-chevron-up"></i></a>
-  <div id="preloader"></div>
-
-
-  <!-- JavaScript Libraries -->
-  <script src="lib/jquery/jquery.min.js"></script>
-  <script src="lib/jquery/jquery-migrate.min.js"></script>
-  <script src="lib/popper/popper.min.js"></script>
-  <script src="lib/bootstrap/js/bootstrap.min.js"></script>
-  <script src="lib/easing/easing.min.js"></script>
-  <script src="lib/counterup/jquery.waypoints.min.js"></script>
-  <script src="lib/counterup/jquery.counterup.js"></script>
-  <script src="lib/owlcarousel/owl.carousel.min.js"></script>
-  <script src="lib/lightbox/js/lightbox.min.js"></script>
-  <script src="lib/typed/typed.min.js"></script>
-
-  <!-- Template Main Javascript File -->
-  <script src="js/main.js"></script>
-
-</body>
-</html>
+  
+   
+  

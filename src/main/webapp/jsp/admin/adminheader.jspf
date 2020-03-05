@@ -35,7 +35,7 @@
 		<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.4.1/js/bootstrap.min.js" integrity="sha384-wfSDF2E50Y2D1uUdj0O3uMBJnjuUD4Ih7YwaYd1iqfktj0Uod8GCExl3Og8ifwB6" crossorigin="anonymous"></script>
 
 		<div class="p-3 mb-2 bg-dark text-white">
-			<h1>Mitali's Blogs</h1>
+			<h1>Admin Page</h1>
 		</div>
 		<p class="text-black">
 			<a href="/">Index</a>&nbsp;|&nbsp;<a href="/home">Home</a>&nbsp;|&nbsp;<a href="/dashboard">Dashboard</a>

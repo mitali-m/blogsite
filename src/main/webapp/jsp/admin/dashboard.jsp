@@ -1,7 +1,7 @@
 <!-- taglib populates the data received from modelData and the syntax starts with dollar and curly brackets -->
 <%@ taglib prefix="spring" uri="http://www.springframework.org/tags"%>
 
-<%@include file="header.jspf" %>
+<%@include file="adminheader.jspf" %>
 	
 	<!-- link to see plotly info -  https://plot.ly/javascript/ -->
 	<!--  
@@ -71,5 +71,5 @@
 	    });
 	</script>
 
-<%@include file="footer.jspf" %>
+<%@include file="adminfooter.jspf" %>
 
