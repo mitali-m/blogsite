@@ -28,7 +28,7 @@
             <div class="article-content">
               <p>
                 At NTU they divide math across 3 subjects - Engineering Math(I and II) and 
-                <a href = "/dm-blog">Discrete Math</a>. Here I talk about 
+                <a href = "/bpr?p=dm-blog">Discrete Math</a>. Here I talk about 
                 Engineering Math and my experience with it.
               </p>
               <p>

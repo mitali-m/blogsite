@@ -98,7 +98,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 1 min
               </div>
             </div>
           </div>
@@ -128,7 +128,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 1 min
               </div>
             </div>
           </div>
@@ -158,7 +158,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 1 min
               </div>
             </div>
           </div>
@@ -188,12 +188,252 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 10 min
+                <span class="ion-ios-clock-outline"></span> 1 min
               </div>
             </div>
           </div>
         </div>
         <!-- blog 5 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=coa-blog"><img src="img/coa.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=coa-blog">Computer Architecture</a></h3>
+              <p class="card-description">
+                More complicated new things - Does every experience really have a positive outcome?
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 6 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=dsai-blog"><img src="img/dsai.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=dsai-blog">Data Science, AI</a></h3>
+              <p class="card-description">
+                My entry into the world's most-talked about stream!
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 7 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=ds-blog"><img src="img/ds.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=ds-blog">Data Structures</a></h3>
+              <p class="card-description">
+                University life sometimes brings back some knowns to balance the unknowns
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 8 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=algo-blog"><img src="img/algo.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=algo-blog">Algorithms</a></h3>
+              <p class="card-description">
+                Not every attempt is a success but that doesn't mean we stop trying!
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 9 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=oodp-blog"><img src="img/oodp.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=oodp-blog">OO Programming</a></h3>
+              <p class="card-description">
+                A lot of labs, lot of drawings and one huge project
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 10 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=os-blog"><img src="img/os.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=os-blog">Operating Systems</a></h3>
+              <p class="card-description">
+                I use this everyday, was there always so much going on behind it?
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 11 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=up-blog"><img src="img/up.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=up-blog">Microprocessors</a></h3>
+              <p class="card-description">
+                 
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 12 -->
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=csa-blog"><img src="img/csa.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU year 1</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=csa-blog">Circuits and Signals</a></h3>
+              <p class="card-description">
+                
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                <a href="#">
+                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                  <span class="author">Mitali Mukherjee</span>
+                </a>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 1.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        <!-- blog 13 -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -207,7 +447,7 @@
               </div>
               <h3 class="card-title"><a href="blog-single.html">Blog</a></h3>
               <p class="card-description">
-                Coding in progress....
+                Coding in Progress...
               </p>
             </div>
             <div class="card-footer">
@@ -218,12 +458,12 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 
+                <span class="ion-ios-clock-outline"></span>
               </div>
             </div>
           </div>
         </div>
-        <!-- blog 6 -->
+        <!-- blog 7 -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
