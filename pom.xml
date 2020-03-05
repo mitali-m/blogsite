@@ -63,6 +63,7 @@
 	
 	<!-- The following two dependencies are needed to connect to the MySQL DB -->
 	<!-- Documentation is here https://spring.io/guides/gs/accessing-data-mysql/ -->
+<!-- 	
 	<dependency>
 		<groupId>org.springframework.boot</groupId>
 		<artifactId>spring-boot-starter-data-jpa</artifactId>
@@ -72,7 +73,7 @@
 	    <artifactId>mysql-connector-java</artifactId>
 	    <scope>runtime</scope>
 	</dependency>
-	
+ -->	
 	<!-- Netflix hystrix for circuit breaker -->
 	<dependency>
 		<groupId>org.springframework.cloud</groupId>

@@ -1,15 +1,7 @@
 package ntu.ce2006.blogsite.model;
 
-import java.util.List;
-
 import org.apache.commons.lang3.StringUtils;
-import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Component;
-
-import ntu.ce2006.blogsite.dao.ProductRepository;
-import ntu.ce2006.blogsite.dao.RateRepository;
-import ntu.ce2006.blogsite.entity.ExchangeRate;
-import ntu.ce2006.blogsite.entity.Product;
 
 /**
  * @author mitali
@@ -23,25 +15,6 @@ import ntu.ce2006.blogsite.entity.Product;
 
 @Component //to make SB manage the life cycle of the objects of this class => no need to instantiate to call the methods
 public class MainModel {
-	
-	@Autowired
-	private ProductRepository productRepository;
-	
-	@Autowired
-	private RateRepository rateRepository;
-	
-	
-	public List<Product> getProducts() {
-		//Here we can call a DAO and return a collection of records
-		return productRepository.findall();
-	}
-	
-	
-	public List<ExchangeRate> getRates() {
-		//Here we can call a DAO and return a collection of records
-		return rateRepository.findall();
-	}
-	
 	
 	public boolean saveUser(String emailId, String fullname) {
 		//We can write biz logic to act on the form data submitted by the user in the UI
