@@ -35,7 +35,7 @@
               </p>
               <p>
                 Data-transfer had me worried for a large part of the semester. I found it very difficult to 
-                fathom how two devices could “agree” on a transfer rate before starting data transfer between 
+                fathom how two devices could "agree" on a transfer rate before starting data transfer between 
                 them and not messing anything up. UART was one of the most complex and insane topics for me 
                 because none of it made sense! The tutorials were of some help but I found them insufficient 
                 and the exam questions were beyond my understanding at that point, which is why I told myself 
@@ -56,8 +56,8 @@
               </p>
               <p>
                 One of the most important lessons I learnt from my whole first year is from this module: 
-                it’s okay to not be 100% prepared for an exam! I learnt that not every module will be 
-                doable and some of them won’t make sense to me till the end and that’s fine! What matters 
+                it's okay to not be 100% prepared for an exam! I learnt that not every module will be 
+                doable and some of them won't make sense to me till the end and that's fine! What matters 
                 is the effort and hard work that goes into preparing.
               </p>
               <p>

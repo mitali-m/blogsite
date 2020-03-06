@@ -47,7 +47,8 @@
                 previous semester. So I was able to manage the coding part after some practice as well.
               </p>
               <p>
-                There was another very large "mini-project" in this course as well(just like in ICT). 
+                There was another very large "mini-project" in this course as well(just like in 
+                <a href = "/bpr?p=ict-blog">ICT</a>). 
                 Only this time, we had to do more than just recommend canteens, we had to do something 
                 that could really be used in reality. The problem? We didn't have a problem statement. 
                 The professor handed us a website link and 3 datasets to choose from, and asked us to 

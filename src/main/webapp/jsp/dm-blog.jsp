@@ -48,7 +48,7 @@
               	This is something I had not realized until I started solving the past exam papers for this 
               	subject. The questions seemed so easy at first glance but when I got to solving them they 
               	were much more than that. I realized the burning need to further understand the concept than 
-              	just the formulas given in the notes. I needed to solve more “application-based” questions 
+              	just the formulas given in the notes. I needed to solve more "application-based" questions 
               	to support the direct ones in the tutorials. This led to more internet research and reading 
               	on the topics until I was in a position to be able to solve the even the twisted questions.
               </p>

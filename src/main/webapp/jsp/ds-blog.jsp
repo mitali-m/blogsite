@@ -44,7 +44,8 @@
                 The second half challenged my learning capacity as they introduced more complex data 
                 structures such as linked lists, stacks and queues as well as an introduction to binary 
                 trees and binary search trees(BST) in C. But these topics interested me so I was able to 
-                pick them up fast. Also having a base introduction from ICT in Python also helped 
+                pick them up fast. Also having a base introduction from <a href = "/bpr?p=ict-blog">ICT</a> 
+                in Python also helped 
                 understand some of the intuition behind the slightly more challenging BT/BST better.
               </p>
               <p>

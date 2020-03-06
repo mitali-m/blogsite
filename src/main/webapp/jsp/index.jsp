@@ -1,6 +1,15 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+  <!-- Global site tag (gtag.js) - Google Analytics -->
+	<script async src="https://www.googletagmanager.com/gtag/js?id=UA-159935971-1"></script>
+	<script>
+	 		window.dataLayer = window.dataLayer || [];
+	 		function gtag(){dataLayer.push(arguments);}
+	 		gtag('js', new Date());
+	
+	 		gtag('config', 'UA-159935971-1');
+	</script>
   <meta charset="utf-8">
   <title>PointerNext</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
@@ -72,7 +81,7 @@
         <div class="container">
           <!--<p class="display-6 color-d">Hello, world!</p>-->
           <h1 class="intro-title mb-4">I am Mitali Mukherjee</h1>
-          <p class="intro-subtitle"><span class="text-slider-items">Java/C/Python Developer,Machine Learning Researcher, Web Developer, Hardware Programmer</span><strong class="text-slider"></strong></p>
+          <p class="intro-subtitle"><span class="text-slider-items">Java/C/Python Developer, Machine Learning Researcher, Web Developer</span><strong class="text-slider"></strong></p>
           <!-- <p class="pt-3"><a class="btn btn-primary btn js-scroll px-4" href="#about" role="button">Learn More</a></p> -->
         </div>
       </div>
@@ -105,9 +114,9 @@
                     <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>Python</span> <span class="pull-right">60%</span>
+                  <span>Web Development</span> <span class="pull-right">40%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>Databases</span> <span class="pull-right">55%</span>
@@ -115,9 +124,9 @@
                     <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>Web Development</span> <span class="pull-right">40%</span>
+                  <span>Python</span> <span class="pull-right">60%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>Linux</span> <span class="pull-right">35%</span>
@@ -134,7 +143,7 @@
                       About me
                     </h5>
                   </div>
-                  <p><span class="lead">Find me on LinkedIn: </span> <span class="lead">https://www.linkedin.com/in/mitali-mukherjee/</span></p>
+                  <p><span class="lead">Find me on LinkedIn: </span> <span class="lead"><a href = "https://www.linkedin.com/in/mitali-mukherjee/" target="_ln">Mitali Mukherjee</a></span></p>
                   <p class="lead">
                     I am a sincere and hard-working individual with a trial-and-error attitude. 
                     I firmly think that experimentation and failures are the most excellent teachers.
