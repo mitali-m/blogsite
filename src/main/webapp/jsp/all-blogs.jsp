@@ -296,12 +296,12 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="#"><img src="img/algo.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=algo-blog"><img src="img/algo.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="#">Algorithms</a></h3>
@@ -331,7 +331,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="#">OO Programming</a></h3>
@@ -361,7 +361,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="#">Operating Systems</a></h3>
@@ -391,7 +391,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="#">Microprocessors</a></h3>
@@ -421,7 +421,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="#">Circuits and Signals</a></h3>

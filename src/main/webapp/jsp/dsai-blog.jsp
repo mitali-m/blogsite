@@ -23,7 +23,7 @@
               <img src="img/dsai.png" class="img-fluid" alt="" width="400" height="200">
             </div>
             <div class="post-meta">
-              <h1 class="article-title"></h1>
+              <h1 class="article-title">A new and interesting subject</h1>
             </div>
             <div class="article-content">
               <p>
