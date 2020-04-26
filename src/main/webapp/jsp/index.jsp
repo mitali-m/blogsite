@@ -119,9 +119,9 @@
                     <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>Databases</span> <span class="pull-right">55%</span>
+                  <span>Databases</span> <span class="pull-right">75%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 55%" aria-valuenow="55" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>Python</span> <span class="pull-right">60%</span>

@@ -29,7 +29,7 @@
               <p>
                 Algorithms was one of the more challenging courses in the second year. It was quite demanding 
                 in that the students were required to understand and memorize codes for various algorithms 
-                such as searching, sorting and graph algorithms such as Dijkstra’s and Prim’s algorithm. In 
+                such as searching, sorting and graph algorithms such as Dijkstra's and Prim's algorithm. In 
                 addition to code, we also had to memorize the complexities in the best, average and worst 
                 case and also know how to derive them.
               </p>
@@ -54,7 +54,7 @@
                 his every move in the project including writing his speaker notes for the presentations. There was also 
                 a point where all the group members were looking to me for confirmation and validation of their work 
                 which was also very stressful for me to manage. However, despite the extra work, I took it as a learning 
-                experience and took up the responsibility as the “unofficial team leader”. In the end we did well in the 
+                experience and took up the responsibility as the "unofficial team leader". In the end we did well in the 
                 group presentations and scored an A grade.
               </p>
               <p>

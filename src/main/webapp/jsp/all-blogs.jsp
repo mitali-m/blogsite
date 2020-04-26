@@ -64,6 +64,7 @@
   </nav>
   <!--/ Nav End /-->
   
+  
   <!--/ Intro Skew Star /-->
   <div class="intro intro-single route bg-image" style="background-image: url(img/overlay-bg.jpg)">
     <div class="overlay-mf"></div>
@@ -82,6 +83,7 @@
   <section id="blog" class="blog-mf sect-pt4 route">
     <div class="container">
       <div class="row">
+      
       <!-- blog 1 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -112,6 +114,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 2 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -142,6 +145,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 3 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -172,6 +176,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 4 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -202,6 +207,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 5 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -232,6 +238,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 6 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -262,6 +269,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 7 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -292,6 +300,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 8 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -317,11 +326,12 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
+                <span class="ion-ios-clock-outline"></span> 1 min
               </div>
             </div>
           </div>
         </div>
+        
         <!-- blog 9 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -352,6 +362,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 10 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -382,6 +393,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 11 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -412,6 +424,7 @@
             </div>
           </div>
         </div>
+        
         <!-- blog 12 -->
         <div class="col-md-4">
           <div class="card card-blog">
@@ -442,6 +455,7 @@
             </div>
           </div>
         </div>
+        <!-- blog 13 -->
       </div>
     </div>
   </section>
