@@ -109,7 +109,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1 min
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
@@ -140,7 +140,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1 min
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
@@ -171,7 +171,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1 min
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
@@ -202,7 +202,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1 min
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
@@ -233,7 +233,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1.5 min
+                <span class="ion-ios-clock-outline"></span> 2.5 min
               </div>
             </div>
           </div>
@@ -264,7 +264,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1.5 min
+                <span class="ion-ios-clock-outline"></span> 2.5 min
               </div>
             </div>
           </div>
@@ -295,7 +295,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1 min
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
@@ -326,7 +326,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 1 min
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
