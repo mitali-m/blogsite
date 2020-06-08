@@ -257,7 +257,7 @@
               <span class="ico-circle"><i class="ion-android-clipboard"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">4.31</p>
+              <p class="counter">4.44</p>
               <span class="counter-text">CURRENT CGPA</span>
             </div>
           </div>
@@ -268,7 +268,7 @@
               <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">27</p>
+              <p class="counter">33</p>
               <span class="counter-text">NTU COURSES COMPLETED</span>
             </div>
           </div>
