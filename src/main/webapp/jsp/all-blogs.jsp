@@ -313,7 +313,7 @@
                   <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="#">Algorithms</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=algo-blog">Algorithms</a></h3>
               <p class="card-description">
                 Not every attempt is a success but that doesn't mean we stop trying!
               </p>
@@ -336,7 +336,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="#"><img src="img/oodp.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=oodp-blog"><img src="img/oodp.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -344,7 +344,7 @@
                   <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="#">OO Programming</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=oodp-blog">OO Programming</a></h3>
               <p class="card-description">
                 A lot of labs, lot of drawings and one huge project
               </p>
@@ -367,7 +367,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="#"><img src="img/os.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=os-blog"><img src="img/os.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -375,7 +375,7 @@
                   <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="#">Operating Systems</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=os-blog">Operating Systems</a></h3>
               <p class="card-description">
                 I use this everyday, was there always so much going on behind it?
               </p>
@@ -398,7 +398,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="#"><img src="img/up.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=up-blog"><img src="img/up.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -406,7 +406,7 @@
                   <h6 class="category">NTU year 2</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="#">Microprocessors</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=up-blog">Microprocessors</a></h3>
               <p class="card-description">
                  A year of robot building! My first venture into Cortex M4 C programming
               </p>
