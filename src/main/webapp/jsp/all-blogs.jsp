@@ -357,7 +357,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
+                <span class="ion-ios-clock-outline"></span> 1 min
               </div>
             </div>
           </div>
@@ -388,7 +388,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
+                <span class="ion-ios-clock-outline"></span> 2 min
               </div>
             </div>
           </div>
@@ -408,7 +408,7 @@
               </div>
               <h3 class="card-title"><a href="#">Microprocessors</a></h3>
               <p class="card-description">
-                 Coding in progress....
+                 A year of robot building! My first venture into Cortex M4 C programming
               </p>
             </div>
             <div class="card-footer">
@@ -419,7 +419,7 @@
                 </a>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
+                <span class="ion-ios-clock-outline"></span> 2.5 min
               </div>
             </div>
           </div>
