@@ -11,7 +11,7 @@
 	 		gtag('config', 'UA-159935971-1');
 	</script>
   <meta charset="utf-8">
-  <title>PointerNext</title>
+  <title>MitaliSpace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -46,7 +46,7 @@
   <!--/ Nav Start /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">PointerNext</a>
+      <a class="navbar-brand js-scroll" href="#page-top">MitaliSpace</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>

@@ -11,7 +11,7 @@
   		gtag('config', 'UA-159935971-1');
 	</script>
   <meta charset="utf-8">
-  <title>PointerNext</title>
+  <title>MitaliSpace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
   <meta content="" name="keywords">
   <meta content="" name="description">
@@ -46,7 +46,7 @@
   <!--/ Nav Start /-->
   <nav class="navbar navbar-b navbar-trans navbar-expand-md fixed-top" id="mainNav">
     <div class="container">
-      <a class="navbar-brand js-scroll" href="#page-top">PointerNext</a>
+      <a class="navbar-brand js-scroll" href="#page-top">MitaliSpace</a>
       <button class="navbar-toggler collapsed" type="button" data-toggle="collapse" data-target="#navbarDefault"
         aria-controls="navbarDefault" aria-expanded="false" aria-label="Toggle navigation">
         <span></span>
@@ -103,10 +103,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1.5 min
@@ -134,10 +132,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1.5 min
@@ -165,10 +161,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+	              <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+	              <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1.5 min
@@ -196,10 +190,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1.5 min
@@ -227,10 +219,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 2.5 min
@@ -258,10 +248,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 2.5 min
@@ -289,10 +277,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1.5 min
@@ -320,10 +306,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1.5 min
@@ -351,10 +335,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 1 min
@@ -382,10 +364,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 2 min
@@ -408,15 +388,13 @@
               </div>
               <h3 class="card-title"><a href="/bpr?p=up-blog">Microprocessors</a></h3>
               <p class="card-description">
-                 A year of robot building! My first venture into Cortex M4 C programming
+                 A semester of robot building! My first venture into Cortex M4 C programming
               </p>
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> 2.5 min
@@ -444,10 +422,8 @@
             </div>
             <div class="card-footer">
               <div class="post-author">
-                <a href="#">
-                  <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                  <span class="author">Mitali Mukherjee</span>
-                </a>
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
                 <span class="ion-ios-clock-outline"></span> !
