@@ -1,0 +1,20 @@
+Index page
+- A non-personalised version of the home page "/"
+
+Sign up (Part 2)
+- Set favourites - DB
+
+Home page
+- Top navigation bar
+- Display favourite currency data graphs(read from DB and plot using Plotly)
+- View money changer rates
+
+Edit profile page for user
+- Change password - DB
+- Change favourites - DB
+- Deletion of watchlist notification - DB
+
+Watchlist page
+- selection of currency - DB
+- send an email when the rate matches SendGrid integration
+
