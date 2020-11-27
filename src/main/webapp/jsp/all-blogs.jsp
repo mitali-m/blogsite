@@ -84,122 +84,7 @@
     <div class="container">
       <div class="row">
       
-<!-- ///////////////// TODO BLOGS //////////////////////
-        <!-- blog 15 
-        <div class="col-md-4">
-          <div class="card card-blog">
-            <div class="card-img">
-              <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
-            </div>
-            <div class="card-body">
-              <div class="card-category-box">
-                <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
-                </div>
-              </div>
-              <h3 class="card-title"><a href="#">Digital Systems Design</a></h3>
-              <p class="card-description">
-                Coding in progress....
-              </p>
-            </div>
-            <div class="card-footer">
-              <div class="post-author">
-                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                 <span class="author">Mitali Mukherjee</span>
-              </div>
-              <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- blog 16 
-        <div class="col-md-4">
-          <div class="card card-blog">
-            <div class="card-img">
-              <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
-            </div>
-            <div class="card-body">
-              <div class="card-category-box">
-                <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
-                </div>
-              </div>
-              <h3 class="card-title"><a href="#">Advanced Computer Architecture</a></h3>
-              <p class="card-description">
-                Coding in progress....
-              </p>
-            </div>
-            <div class="card-footer">
-              <div class="post-author">
-                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                 <span class="author">Mitali Mukherjee</span>
-              </div>
-              <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- blog 17 
-        <div class="col-md-4">
-          <div class="card card-blog">
-            <div class="card-img">
-              <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
-            </div>
-            <div class="card-body">
-              <div class="card-category-box">
-                <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
-                </div>
-              </div>
-              <h3 class="card-title"><a href="#">Software Engineering</a></h3>
-              <p class="card-description">
-                Coding in progress....
-              </p>
-            </div>
-            <div class="card-footer">
-              <div class="post-author">
-                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                 <span class="author">Mitali Mukherjee</span>
-              </div>
-              <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
-              </div>
-            </div>
-          </div>
-        </div>
-        <!-- blog 18 
-        <div class="col-md-4">
-          <div class="card card-blog">
-            <div class="card-img">
-              <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
-            </div>
-            <div class="card-body">
-              <div class="card-category-box">
-                <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
-                </div>
-              </div>
-              <h3 class="card-title"><a href="#">Microcontroller Systems</a></h3>
-              <p class="card-description">
-                Coding in progress....
-              </p>
-            </div>
-            <div class="card-footer">
-              <div class="post-author">
-                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                 <span class="author">Mitali Mukherjee</span>
-              </div>
-              <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> !
-              </div>
-            </div>
-          </div>
-        </div>
-        
-         -->
-       <!-- blog 14 -->
+      	 <!-- blog TODO -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -208,12 +93,101 @@
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
+		           <h6 class="category">NTU year 3</h6>
+		         </div>
+		       </div>
+		       <h3 class="card-title"><a href="#">Coding in Progress...</a></h3>
+		       <p class="card-description">
+		       	
+		       </p>
+		     </div>
+		     <div class="card-footer">
+		       <div class="post-author">
+		         <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+		         <span class="author">Mitali Mukherjee</span>
+		      </div>
+		      <div class="post-date">
+		        <span class="ion-ios-clock-outline"></span> 
+		      </div>
+		    </div>
+		  </div>
+		</div>
+      
+      	 <!-- blog 16 -->
+		 <div class="col-md-4">
+		   <div class="card card-blog">
+	         <div class="card-img">
+		       <a href="/bpr?p=y2s2-blog"><img src="img/y2s2.png" alt="" class="img-fluid"></a>
+		     </div>
+		     <div class="card-body">
+		       <div class="card-category-box">
+		         <div class="card-category">
 		           <h6 class="category">NTU year 2</h6>
 		         </div>
 		       </div>
-		       <h3 class="card-title"><a href="#">Circuits and Signals</a></h3>
+		       <h3 class="card-title"><a href="/bpr?p=y2s2-blog">Year 2 Sem 2</a></h3>
 		       <p class="card-description">
-		         Coding in progress....
+		         A semester disrupted by COVID19 but still memorable!
+		       </p>
+		       <br>
+		     </div>
+		     <div class="card-footer">
+		       <div class="post-author">
+		         <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+		         <span class="author">Mitali Mukherjee</span>
+		      </div>
+		      <div class="post-date">
+		        <span class="ion-ios-clock-outline"></span> 6 min
+		      </div>
+		    </div>
+		  </div>
+		</div>
+      
+         <!-- blog 15 -->
+		 <div class="col-md-4">
+		   <div class="card card-blog">
+	         <div class="card-img">
+		       <a href="/bpr?p=se-blog"><img src="img/se.png" alt="" class="img-fluid"></a>
+		     </div>
+		     <div class="card-body">
+		       <div class="card-category-box">
+		         <div class="card-category">
+		           <h6 class="category">NTU year 2</h6>
+		         </div>
+		       </div>
+		       <h3 class="card-title"><a href="/bpr?p=se-blog">Software Engineering</a></h3>
+		       <p class="card-description">
+		         Web application development and many lessons on group work
+		       </p>
+		       <br>
+		     </div>
+		     <div class="card-footer">
+		       <div class="post-author">
+		         <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+		         <span class="author">Mitali Mukherjee</span>
+		      </div>
+		      <div class="post-date">
+		        <span class="ion-ios-clock-outline"></span> 7.5 min
+		      </div>
+		    </div>
+		  </div>
+		</div>
+
+       <!-- blog 14 -->
+		 <div class="col-md-4">
+		   <div class="card card-blog">
+	         <div class="card-img">
+		       <a href="/bpr?p=csa-blog"><img src="img/csa.png" alt="" class="img-fluid"></a>
+		     </div>
+		     <div class="card-body">
+		       <div class="card-category-box">
+		         <div class="card-category">
+		           <h6 class="category">NTU year 2</h6>
+		         </div>
+		       </div>
+		       <h3 class="card-title"><a href="/bpr?p=csa-blog">Circuits and Signals</a></h3>
+		       <p class="card-description">
+		         Bringing numericals to life!
 		       </p>
 		       <br><br>
 		     </div>
@@ -223,7 +197,7 @@
 		         <span class="author">Mitali Mukherjee</span>
 		      </div>
 		      <div class="post-date">
-		        <span class="ion-ios-clock-outline"></span>
+		        <span class="ion-ios-clock-outline"></span> 1.5 min
 		      </div>
 		    </div>
 		  </div>
@@ -268,7 +242,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
+                  <h6 class="category">Research</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=ureca-blog">Undergraduate Research</a></h3>

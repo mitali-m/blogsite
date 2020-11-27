@@ -48,6 +48,11 @@
                 I put in through the semester.
               </p>
               <p>
+              	The robot shown in the image above is the actual robot I worked on. A magnified version is below:
+              </p>
+              <img src="img/uprobot.png" style="display:block;margin-left:auto;margin-right:auto;width:30%;">
+              <br>
+              <p>
                 The tutorials were also quite challenging as the theory lectures did not provide any practical or numerical 
                 examples on how to use them. In addition, the subject syllabus had been changed and my batch was the 
                 first to experience it. This rendered our only preparation resource, previous exam papers, useless. So we 
