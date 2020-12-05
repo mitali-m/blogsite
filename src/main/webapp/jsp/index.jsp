@@ -179,6 +179,7 @@
           </div>
         </div>
       </div>
+      
       <div class="row">
         <div class="col-md-6">
           <div class="service-box">
@@ -186,7 +187,39 @@
               <span class="ico-circle"><i class="ion-search"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">URECA</h2>
+              <h2 class="s-title"> <a href="/bpr?p=moveinsync-blog"> Internship@MoveInSync </a> </h2>
+              <p class="s-description text-center">
+                Worked on a Computer Vision based application to 
+                detect social distancing in COVID-19 times; used OpenCV 
+                and other Python libraries to build the application
+              </p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-md-6">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-search"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title">Internship@PRDCSG</h2>
+              <p class="s-description text-center">
+                Currently pursuing a seven-month internship at 
+                Panasonic R&D Center SG(PRDCSG) with the Learning and Vision team 
+                from Dec 2020 until Jun 2021 as part of NTU's Professional Internship program
+              </p>
+            </div>
+          </div>
+        </div>
+        
+        <div class="col-md-6">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-search"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title"> <a href="/bpr?p=ureca-blog"> URECA@NTU </a> </h2>
               <p class="s-description text-center">
                 Undergraduate Research Experience On Campus(URECA)
                 is an opportunity provided by NTU to students showing excellent academic
@@ -195,51 +228,66 @@
             </div>
           </div>
         </div>
+        
         <div class="col-md-6">
           <div class="service-box">
             <div class="service-ico">
-              <span class="ico-circle"><i class="ion-code-working"></i></span>
+              <span class="ico-circle"><i class="ion-search"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Web Development</h2>
+              <h2 class="s-title"> <a href="/bpr?p=mdp-blog"> MDP@NTU </a> </h2>
               <p class="s-description text-center">
-                Developed a currency exchange portal involving 
-                various latest technologies such as SpringBoot framework and Jupyter 
-                notebooks in Python for prediction models and a MySQL database
+                Multidisciplinary Design Project(MDP) is a teamwork based module
+                that deals with assembling and programming a robot to achieve various objectives
               </p>
             </div>
           </div>
         </div>
-        <div class="col-md-6">
-          <div class="service-box">
-            <div class="service-ico">
-              <span class="ico-circle"><i class="ion-bug"></i></span>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">Microprocessor Programming</h2>
-              <p class="s-description text-center">
-                Programmed an ARM M4 microprocessor chip on a robot
-                to operate IR sensors and a tachometer; create
-                PWM signals to rotate the wheels, and model an FSM
-              </p>
-            </div>
-          </div>
-        </div>
-        <div class="col-md-6">
-          <div class="service-box">
-            <div class="service-ico">
-              <span class="ico-circle"><i class="ion-arrow-graph-up-right"></i></span>
-            </div>
-            <div class="service-content">
-              <h2 class="s-title">Timeseries Analysis</h2>
-              <p class="s-description text-center">
-                In depth analysis of World Happiness Index data
-                from Kaggle using ARIMA Timeseries model in Python
-                as well as prediction of future happiness index
-              </p>
-            </div>
-          </div>
-        </div>
+<!--         <div class="col-md-6"> -->
+<!--           <div class="service-box"> -->
+<!--             <div class="service-ico"> -->
+<!--               <span class="ico-circle"><i class="ion-code-working"></i></span> -->
+<!--             </div> -->
+<!--             <div class="service-content"> -->
+<!--               <h2 class="s-title">Web Development</h2> -->
+<!--               <p class="s-description text-center"> -->
+<!--                 Developed a currency exchange portal involving  -->
+<!--                 various latest technologies such as SpringBoot framework and Jupyter  -->
+<!--                 notebooks in Python for prediction models and a MySQL database -->
+<!--               </p> -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--         <div class="col-md-6"> -->
+<!--           <div class="service-box"> -->
+<!--             <div class="service-ico"> -->
+<!--               <span class="ico-circle"><i class="ion-bug"></i></span> -->
+<!--             </div> -->
+<!--             <div class="service-content"> -->
+<!--               <h2 class="s-title">Microprocessor Programming</h2> -->
+<!--               <p class="s-description text-center"> -->
+<!--                 Programmed an ARM M4 microprocessor chip on a robot -->
+<!--                 to operate IR sensors and a tachometer; create -->
+<!--                 PWM signals to rotate the wheels, and model an FSM -->
+<!--               </p> -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
+<!--         <div class="col-md-6"> -->
+<!--           <div class="service-box"> -->
+<!--             <div class="service-ico"> -->
+<!--               <span class="ico-circle"><i class="ion-arrow-graph-up-right"></i></span> -->
+<!--             </div> -->
+<!--             <div class="service-content"> -->
+<!--               <h2 class="s-title">Timeseries Analysis</h2> -->
+<!--               <p class="s-description text-center"> -->
+<!--                 In depth analysis of World Happiness Index data -->
+<!--                 from Kaggle using ARIMA Timeseries model in Python -->
+<!--                 as well as prediction of future happiness index -->
+<!--               </p> -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
       </div>
     </div>
   </section>
@@ -247,7 +295,7 @@
 
 
   <!--/ Counter Start /-->
-  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/counters-bg.jpg)">
+  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">
@@ -311,13 +359,13 @@
               Blogs
             </h3>
     		<h4 class="title">
-              Just a few of my thoughts and experiences. 
-              <a href = "/all-blogs">Click here to read more!</a>
+              Just a few of my thoughts and experiences.
             </h4>
             <div class="line-mf"></div>
            	  <p style="margin-bottom:1.5cm;"></p>
+           	  <p class="lead"><a href = "/all-blogs">Click here to read more!</a></p>
               <div class="about-img">
-                <a href = "/all-blogs"><img src="img/blog.jpeg" class="img-fluid rounded b-shadow-a" alt="Responsive image" width="600" height="400"></a>
+                <a href = "/all-blogs"><img src="img/blog.png" class="img-fluid rounded b-shadow-a" alt="Responsive image" width="600" height="400"></a>
               </div>
             </div>
           </div>

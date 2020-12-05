@@ -83,12 +83,41 @@
   <section id="blog" class="blog-mf sect-pt4 route">
     <div class="container">
       <div class="row">
+      
+         <!-- blog TODO -->
+		 <div class="col-md-4">
+		   <div class="card card-blog">
+	         <div class="card-img">
+		       <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
+		     </div>
+		     <div class="card-body">
+		       <div class="card-category-box">
+		         <div class="card-category">
+		           <h6 class="category">NTU Year 3</h6>
+		         </div>
+		       </div>
+		       <h3 class="card-title"><a href="#">Coding in Progress...</a></h3>
+		       <p class="card-description">
+		       	<br><br><br>
+		       </p>
+		     </div>
+		     <div class="card-footer">
+		       <div class="post-author">
+		         <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+		         <span class="author">Mitali Mukherjee</span>
+		      </div>
+		      <div class="post-date">
+		        <span class="ion-ios-clock-outline"></span> 
+		      </div>
+		    </div>
+		  </div>
+		</div>
 		
-		 <!-- blog -->
+		<!-- blog FIXED-->
          <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=intern-blog"><img src="img/intern.png" alt="" class="img-fluid"></a>
+              <a href="#"><img src="img/panasonic.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -96,7 +125,39 @@
                   <h6 class="category">Internship</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=intern-blog">Internship@MoveInSync</a></h3>
+              <h3 class="card-title"><a href="#">Internship@PRDCSG</a></h3>
+              <p class="card-description">
+                Coding in Progress...
+                <br>
+                <br>
+              </p>
+              <br>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+		
+		<!-- blog FIXED-->
+		<div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=moveinsync-blog"><img src="img/moveinsync.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Internship</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=moveinsync-blog">Internship@MoveInSync</a></h3>
               <p class="card-description">
                 My first corporate experience! A huge eye opener in terms of life in a corporate
               </p>
@@ -113,8 +174,38 @@
             </div>
           </div>
         </div>
+         
+		 <!-- blog FIXED-->
+		 <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=mdp-blog"><img src="img/mdp.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 3</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=mdp-blog">MDP</a></h3>
+              <p class="card-description">
+                The most challenging course yet! A whole semester of lab work leading up to the competitive challenges
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+         
         
-        <!-- blog -->      
+        <!-- blog FIXED-->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -143,34 +234,36 @@
           </div>
         </div>
         
-        <!-- blog TODO -->
-		 <div class="col-md-4">
-		   <div class="card card-blog">
-	         <div class="card-img">
-		       <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
-		     </div>
-		     <div class="card-body">
-		       <div class="card-category-box">
-		         <div class="card-category">
-		           <h6 class="category">NTU year 3</h6>
-		         </div>
-		       </div>
-		       <h3 class="card-title"><a href="#">Coding in Progress...</a></h3>
-		       <p class="card-description">
-		       	
-		       </p>
-		     </div>
-		     <div class="card-footer">
-		       <div class="post-author">
-		         <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-		         <span class="author">Mitali Mukherjee</span>
-		      </div>
-		      <div class="post-date">
-		        <span class="ion-ios-clock-outline"></span> 
-		      </div>
-		    </div>
-		  </div>
-		</div>
+        <!-- blog 16-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=ko-blog"><img src="img/ko.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Beyond Computers</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=ko-blog">Korean</a></h3>
+              <p class="card-description">
+                I discovered a new talent - learning languages
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
       
       	 <!-- blog 15 -->
 		 <div class="col-md-4">
@@ -181,7 +274,7 @@
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
-		           <h6 class="category">NTU year 2</h6>
+		           <h6 class="category">NTU Year 2</h6>
 		         </div>
 		       </div>
 		       <h3 class="card-title"><a href="/bpr?p=y2s2-blog">Year 2 Sem 2</a></h3>
@@ -211,7 +304,7 @@
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
-		           <h6 class="category">NTU year 2</h6>
+		           <h6 class="category">NTU Year 2</h6>
 		         </div>
 		       </div>
 		       <h3 class="card-title"><a href="/bpr?p=se-blog">Software Engineering</a></h3>
@@ -241,7 +334,7 @@
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
-		           <h6 class="category">NTU year 2</h6>
+		           <h6 class="category">NTU Year 2</h6>
 		         </div>
 		       </div>
 		       <h3 class="card-title"><a href="/bpr?p=csa-blog">Circuits and Signals</a></h3>
@@ -271,7 +364,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
+                  <h6 class="category">NTU Year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=up-blog">Microprocessors</a></h3>
@@ -300,7 +393,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
+                  <h6 class="category">NTU Year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=os-blog">Operating Systems</a></h3>
@@ -329,7 +422,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
+                  <h6 class="category">NTU Year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=oodp-blog">OO Programming</a></h3>
@@ -358,7 +451,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 2</h6>
+                  <h6 class="category">NTU Year 2</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=algo-blog">Algorithms</a></h3>
@@ -387,7 +480,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=ds-blog">Data Structures</a></h3>
@@ -416,7 +509,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=dsai-blog">Data Science, AI</a></h3>
@@ -445,7 +538,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=coa-blog">Computer Architecture</a></h3>
@@ -474,7 +567,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=dm-blog">Discrete Math</a></h3>
@@ -504,7 +597,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=ict-blog">Computational Thinking</a></h3>
@@ -533,7 +626,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=dl-blog">Digital Logic</a></h3>
@@ -562,7 +655,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU year 1</h6>
+                  <h6 class="category">NTU Year 1</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=emath-blog">Engineering Math</a></h3>

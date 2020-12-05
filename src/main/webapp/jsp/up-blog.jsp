@@ -54,13 +54,13 @@
               <br>
               <p>
                 The tutorials were also quite challenging as the theory lectures did not provide any practical or numerical 
-                examples on how to use them. In addition, the subject syllabus had been changed and my batch was the 
+                examples on how to use the concepts. In addition, the subject syllabus had been changed and my batch was the 
                 first to experience it. This rendered our only preparation resource, previous exam papers, useless. So we 
                 could only rely on tutorials which were challenging and insufficient.
               </p>
               <p>
                 The labs, though challenging, really helped me bond with my peers. We spent a lot of time doing the labs together 
-                and helping each other do the tutorials. The course was quite an enriching in that I learnt many things as 
+                and helping each other do the tutorials. The course was quite enriching in that I learnt many things as 
                 well as bonded a lot with my peers and friends.
               </p>
               <p>
