@@ -47,7 +47,7 @@
               	examples but I was able to pick it up fast since I already had experience listening to it before.
               </p>
               <p>
-              	My initial notes and the end of my vocabulary list is in the images below.
+              	My initial notes and a part of my vocabulary list is in the images below.
               </p>
               <div class="container">
               	<div class="row">
@@ -72,9 +72,9 @@
               </p>
               <p>
               	On the first day of class, when the professor walked in and started speaking to us in Korean, I felt my 
-              	excitement grow even more as I hoped to learn to speak like her, a native. Within the first few minutes of 
-              	class I felt overqualified for level 1 as the professor started teaching us the alphabet which I had 
-              	already learnt a few months ago. I then decided to have a chat with the professor at the end of class and 
+              	excitement grow even more as I hoped to learn to speak like her, a native. At the end of the first class 
+              	I felt overqualified for level 1 as the professor taught us the alphabet which I had 
+              	already learnt a few months ago. I then decided to have a chat with the professor and 
               	tell her that I had learnt a few things myself and confirm if level 1 was the right class for me.
               </p>
               <p>
@@ -93,20 +93,20 @@
               </p>
               <p>
               	After the good results in level 2, I decided to continue taking Korean for all my remaining UEs. So in the 
-              	next semester I took level 3 which taught me new kinds of grammar and gave me a chance to improve in my 
+              	next semester I took level 3 which taught me new kinds of grammar and gave me a chance to improve my 
               	formal speech which was weak at the time. Additionally, it also had a lot of essay writing and an oral 
               	assessment which really put my speaking skills to the test. I also met one of my closest friends at NTU in 
               	level 3 who also directly entered in level 2, with whom I often speak in Korean.
               </p>
               <p>
-              	The last Korean level I was able to take at NTU was Korean level 4 in year 2 sem 2. I was out of UE credits by 
-              	then so I had no choice but to end there. Level 4 was of course the hardest level which introduced many more 
-              	aspects in writing and more nuanced speaking. By the end of level 4, I was also able to understand other people 
-              	speaking Korean faster and more accurately with the help of the listening exercises over all three levels I took.
+              	The last Korean level I was able to take at NTU was Korean level 4 in year 2 sem 2. I was out of UE credits after 
+              	that so I had no choice but to end there. Level 4 was of course the hardest level for me. It introduced many more 
+              	aspects in writing and more nuanced speaking. By the end of level 4, I was also able to understand spoken 
+              	Korean faster and more accurately with the help of the listening exercises over all three levels I took.
               </p>
               <p>
               	I'm proud to say that in all three levels of Korean, the professors and my peers praised my speaking and 
-              	pronunciation by saying I sounded almost native. Thanks to the Korean I learnt at NTU, I learnt more about 
+              	pronunciation by saying I sounded almost native. Thanks to the Korean I learnt at NTU, I gained more knowledge on 
               	the Korean culture and etiquette. I can also watch most K-dramas without subtitles (except those with jargon) 
               	and understand the lyrics of many K-pop songs!
               </p>
@@ -116,7 +116,7 @@
               </p>
               <p>
               	Another important thing this whole process taught me is that I actually have a flair for learning languages! 
-              	This is a talent I genuinely want to work on going forward so who knows which language I will pick up next?
+              	This is a talent I genuinely want to work on going forward so who knows which language I will pick up next!
               </p>
             </div>
           </div>
