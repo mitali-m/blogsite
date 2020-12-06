@@ -28,9 +28,9 @@
             <div class="article-content">
               <p>
               	Multidisciplinary Design Project, or MDP for short, is the only course in the whole Computer Engineering 
-              	(and Computer Science) degree which is worth four credits; all other courses are only worth three or 
+              	(and Computer Science) degree which is of four credits; all other courses are only of three or 
               	fewer credits. This is proof that it is one of the hardest courses in the degree and it definitely 
-              	lives up to its name.
+              	lives up to its reputation.
               </p>
               <p>
               	Before talking about my experience, let me first elaborate on the premise and objectives of MDP. I'm doing 
@@ -134,12 +134,13 @@
               </p>
               <p>
               	It took us about two to three weeks to complete the motor functionality including straight line motion and 
-              	accurate rotation (for any degree such as 90 or even 1080). We also finished working on the sensors. 
+              	accurate rotation (for any degree such as 90 or even 180). We also finished working on the sensors. 
               	However, we noticed a lot of unreliability in the hardware that kept changing the calibration of both 
               	motors and all six sensors. We had to spend a lot of time trying to recalibrate and fix our motion and 
               	sensor readings.
               </p>
               <p>
+              PIG: remove the delay part!!!
               	At the same time, the other teams were working on their tasks as well. However, there was a delay on the 
               	algorithm side as they were working on some documentation deliverable towards the beginning. Thus as the 
               	deadline for the first challenge drew near, there was a lot of pressure on them to finish creating the 
@@ -158,8 +159,10 @@
               	challenge in one week's time. Additionally, the COVID-19 restrictions were also preventing many group 
               	members from coming to the lab to help out. Our group was also worried by the continuous needs for 
               	recalibration delaying our checklist clearance and the delays caused for algorithm development.
+              	PIG: "delays caused because we had to revisit the algorithm more number of times than we wanted to! I guess that's what iterative development is all about."
               </p>
               <p>
+              PIG: reword this.........
               	After clearing the checklist, two of the group members from other teams stepped up to help out with the 
               	algorithm and eventually managed to complete it on time. However, we lacked enough time to test before 
               	the first run. However, we tested as much as we could and adopted a <strong>"add-as-you-go strategy"</strong> for extra 
