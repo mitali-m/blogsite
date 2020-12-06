@@ -140,7 +140,6 @@
               	sensor readings.
               </p>
               <p>
-              PIG: remove the delay part!!!
               	At the same time, the other teams were working on their tasks as well. However, there was a delay on the 
               	algorithm side as they were working on some documentation deliverable towards the beginning. Thus as the 
               	deadline for the first challenge drew near, there was a lot of pressure on them to finish creating the 
@@ -158,11 +157,10 @@
               	By the time recess week came, every group was in a state of chaos under the pressure of the upcoming 
               	challenge in one week's time. Additionally, the COVID-19 restrictions were also preventing many group 
               	members from coming to the lab to help out. Our group was also worried by the continuous needs for 
-              	recalibration delaying our checklist clearance and the delays caused for algorithm development.
-              	PIG: "delays caused because we had to revisit the algorithm more number of times than we wanted to! I guess that's what iterative development is all about."
+              	recalibration delaying our checklist clearance and the delays caused because we had to revisit the 
+              	algorithm more number of times than we wanted to! I guess that's what iterative development is all about.
               </p>
               <p>
-              PIG: reword this.........
               	After clearing the checklist, two of the group members from other teams stepped up to help out with the 
               	algorithm and eventually managed to complete it on time. However, we lacked enough time to test before 
               	the first run. However, we tested as much as we could and adopted a <strong>"add-as-you-go strategy"</strong> for extra 

@@ -13,8 +13,8 @@
   <meta charset="utf-8">
   <title>MitaliSpace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="" name="keywords">
-  <meta content="" name="description">
+  <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="keywords">
+  <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="description">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -180,6 +180,8 @@
         </div>
       </div>
       
+      
+      
       <div class="row">
         <div class="col-md-6">
           <div class="service-box">
@@ -187,11 +189,11 @@
               <span class="ico-circle"><i class="ion-search"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title"> <a href="/bpr?p=moveinsync-blog"> Internship@MoveInSync </a> </h2>
+              <h2 class="s-title"> Internship@Panasonic</h2>
               <p class="s-description text-center">
-                Worked on a Computer Vision based application to 
-                detect social distancing in COVID-19 times; used OpenCV 
-                and other Python libraries to build the application
+                Currently pursuing a seven-month internship at 
+                Panasonic R&D Center SG(PRDCSG) with the Learning and Vision team 
+                from Dec 2020 until Jun 2021 as part of NTU's Professional Internship program
               </p>
             </div>
           </div>
@@ -203,11 +205,11 @@
               <span class="ico-circle"><i class="ion-search"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title">Internship@PRDCSG</h2>
+              <h2 class="s-title"> <a href="/bpr?p=moveinsync-blog"> Internship@MoveInSync</a> </h2>
               <p class="s-description text-center">
-                Currently pursuing a seven-month internship at 
-                Panasonic R&D Center SG(PRDCSG) with the Learning and Vision team 
-                from Dec 2020 until Jun 2021 as part of NTU's Professional Internship program
+              	Worked on a Computer Vision based application to 
+                detect social distancing in COVID-19 times; used OpenCV 
+                and other Python libraries to build the application                
               </p>
             </div>
           </div>

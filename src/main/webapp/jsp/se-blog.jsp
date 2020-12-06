@@ -58,9 +58,9 @@
 	             The first roadblock hit us during the very initial stages of discussion. I was strongly in favour of using 
 	             the SpringBoot framework in Java because it is an upcoming and popular framework used in the industry. 
 	             Though I had never used it before, I was confident that we would be able to pick it up given that we were 
-	             all comfortable with Java. However, another member wanted to develop it using the .Net framework because 
-	             he was comfortable with it. This led to a slight conflict in the group as both of us were trying to push 
-	             for our respective ideas.
+	             all comfortable with Java. However, another member wanted to develop it using another framework because 
+	             he was comfortable with it and confident at using it. This led to a slight conflict in the group as 
+	             both of us were trying to push for our respective ideas.
               </p>
               <p>
 	             Fearing this would lead to bad-blood in the group, we decided to present our ideas clearly to the other 
