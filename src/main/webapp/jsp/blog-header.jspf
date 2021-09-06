@@ -14,8 +14,13 @@
   <meta charset="utf-8">
   <title>MitaliSpace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="keywords">
-  <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="description">
+  <meta content="Nanyang Technological University (NTU) | Computer Engineer | ML | Web Development" name="keywords">
+  <meta content="nanyang technological university computer engineer machine learning deep learning computer vision" name="description">
+  
+  <meta property="og:title" content="Mitali Mukherjee (MitaliSpace)">
+  <meta property="og:description" content="Nanyang Technological University (NTU) | Computer Engineer | ML | Web Development">
+  <meta property="og:url" content="http://www.mitalispace.com">
+  <meta property="og:image" content="http://www.mitalispace.com/img/intro-bg.jpeg">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">

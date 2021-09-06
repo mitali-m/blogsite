@@ -13,8 +13,13 @@
   <meta charset="utf-8">
   <title>MitaliSpace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="keywords">
+  <meta content="Nanyang Technological University (NTU) | Computer Engineer | ML | Web Development" name="keywords">
   <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="description">
+  
+  <meta property="og:title" content="Mitali Mukherjee (MitaliSpace)">
+  <meta property="og:description" content="Nanyang Technological University (NTU) | Computer Engineer | ML | Web Development">
+  <meta property="og:url" content="http://www.mitalispace.com">
+  <meta property="og:image" content="http://www.mitalispace.com/img/intro-bg.jpeg">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -117,7 +122,7 @@
          <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="#"><img src="img/panasonic.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=panasonic-blog"><img src="img/panasonic.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -125,10 +130,9 @@
                   <h6 class="category">Internship</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="#">Internship@PRDCSG</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=panasonic-blog">Internship@PRDCSG</a></h3>
               <p class="card-description">
-                Coding in Progress...
-                <br>
+                Six months of Computer Vision!
                 <br>
               </p>
               <br>

@@ -13,8 +13,13 @@
   <meta charset="utf-8">
   <title>MitaliSpace</title>
   <meta content="width=device-width, initial-scale=1.0" name="viewport">
-  <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="keywords">
+  <meta content="Nanyang Technological University (NTU) | Computer Engineer | ML | Web Development" name="keywords">
   <meta content="mitali mukherjee ntu nanyang technological university computer engineer machine learning deep learning computer vision" name="description">
+  
+  <meta property="og:title" content="Mitali Mukherjee (MitaliSpace)">
+  <meta property="og:description" content="Nanyang Technological University (NTU) | Computer Engineer | ML | Web Development">
+  <meta property="og:url" content="http://www.mitalispace.com">
+  <meta property="og:image" content="http://www.mitalispace.com/img/intro-bg.jpeg">
 
   <!-- Favicons -->
   <link href="img/favicon.png" rel="icon">
@@ -109,11 +114,27 @@
                     <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+                  <span>Python</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>TensorFlow 2 with Keras</span> <span class="pull-right">60%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
+                  <span>OpenCV</span> <span class="pull-right">75%</span>
+                  <div class="progress">
+                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                      aria-valuemax="100"></div>
+                  </div>
                   <span>C</span> <span class="pull-right">45%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 45%" aria-valuenow="45" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+                  <!--
                   <span>Web Development</span> <span class="pull-right">40%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 40%" aria-valuenow="40" aria-valuemin="0"
@@ -124,16 +145,12 @@
                     <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>Python</span> <span class="pull-right">75%</span>
-                  <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
-                      aria-valuemax="100"></div>
-                  </div>
                   <span>Linux</span> <span class="pull-right">35%</span>
                   <div class="progress">
                     <div class="progress-bar" role="progressbar" style="width: 35%" aria-valuenow="35" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
+                  -->
                 </div>
               </div>
               <div class="col-md-6">
@@ -189,9 +206,9 @@
               <span class="ico-circle"><i class="ion-search"></i></span>
             </div>
             <div class="service-content">
-              <h2 class="s-title"> Internship@Panasonic</h2>
+              <h2 class="s-title"> <a href="/bpr?p=panasonic-blog"> Internship@Panasonic </a></h2>
               <p class="s-description text-center">
-                Currently pursuing a seven-month internship at 
+                Completed a six-month internship at 
                 Panasonic R&D Center SG(PRDCSG) with the Learning and Vision team 
                 from Dec 2020 until Jun 2021 as part of NTU's Professional Internship program
               </p>
@@ -307,7 +324,7 @@
               <span class="ico-circle"><i class="ion-android-clipboard"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">4.44</p>
+              <p class="counter">4.47</p>
               <span class="counter-text">CURRENT CGPA</span>
             </div>
           </div>
@@ -318,7 +335,7 @@
               <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">33</p>
+              <p class="counter">36</p>
               <span class="counter-text">NTU COURSES COMPLETED</span>
             </div>
           </div>
