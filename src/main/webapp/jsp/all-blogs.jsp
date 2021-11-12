@@ -143,7 +143,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span>
+                <span class="ion-ios-clock-outline">12 min</span>
               </div>
             </div>
           </div>
