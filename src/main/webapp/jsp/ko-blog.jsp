@@ -29,13 +29,12 @@
               <p>
               	My best friend introduced me to the world of Korean drama (K-drama) in 2015 which was much before it became 
               	popular around 2 years ago in 2018. I initially started watching my first K-Drama out of curiosity to see 
-              	what she was so hyped about, and I ended up impressed with the plot (even though I find it lame today, but 
-              	hey it was released in 2013 so considering that it wasn't all that bad) and I was curious to check out some 
+              	what she was so hyped about, and I ended up impressed with it and I was curious to check out some 
               	more shows.
               </p>
               <p>
-              	Fast-forward to 2018 where I had watched about a hundred (not exaggerating) K-Dramas and avidly listened 
-              	to K-pop (Korean music). I could also speak a certain level of Korean which I learnt by matching the 
+              	Fast-forward to 2018 where I had watched about a hundred (not exaggerating) K-Dramas. 
+              	I could also speak a certain level of Korean which I learnt by matching the 
               	frequently-used words from the dramas with the subtitles. At this point I was already deep into the 
               	world of K-drama and K-pop which made me want to learn the language even more to understand what my 
               	favourite stars are saying in videos that don't have subtitles. I also wanted to learn the script 

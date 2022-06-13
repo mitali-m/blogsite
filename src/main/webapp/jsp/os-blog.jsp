@@ -46,15 +46,15 @@
               <p>
                 Of course another slightly less significant problem was my careless calculation errors, which I have always had 
                 trouble with, but which posed a problem here because of the extensive calculations involved in this subject. 
-                For example, we would be asked to calculate the time taken for a a cache cell to be replaced when using the 
+                For example, we would be asked to calculate the time taken for a cache cell to be replaced when using the 
                 LRU(Least Recently Used) replacement algorithm. Many times I would miss a decimal point or copy the wrong 
-                numbers from the question. However, practice made me confident to trust my calculations, but the main problem 
+                numbers from the question. However, practice made me confident enough to trust my calculations, but the main problem 
                 of application still remained.
               </p>
               <p>
                 I did a lot of research, and re-watched the video lectures in order to try and find out hints on the 
                 application of the concepts. The video lectures helped because the professors taught the course very 
-                well, but I was still not fully confident. I realized that the problem I faced is in my opinion the worst 
+                well, but I was still not fully confident. I realized that the problem I faced which is in my opinion the worst 
                 kind, where the concepts themselves make sense but applying them is difficult. The natural conclusion 
                 that followed is that I needed more practice. So I decided to re-solve the tutorials, and this is where 
                 I made the most progress. I was able to pick up the hints from the questions and I was able to solve most of them.

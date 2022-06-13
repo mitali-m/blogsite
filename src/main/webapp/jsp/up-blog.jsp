@@ -44,11 +44,11 @@
                 to encourage us to figure it out ourselves, a mindset which would benefit us in the long-run; however, 
                 at that point when we were focused on solving the labs, these were not our thoughts. But one thing I enjoyed 
                 about these labs, is that despite all the challenges we faced, the satisfaction of having the robot do what we 
-                want it to do was immense. At the last lab, when I saw the robot working properly I felt proud that the efforts 
+                want it to do was immense. At the last lab, when I saw the robot working properly I felt proud of the efforts 
                 I put in through the semester.
               </p>
               <p>
-              	The robot shown in the image above is the actual robot I worked on. A magnified version is below:
+              	This is the actual robot I worked on during the course:
               </p>
               <img src="img/uprobot.png" style="display:block;margin-left:auto;margin-right:auto;width:30%;">
               <br>

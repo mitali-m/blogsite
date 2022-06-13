@@ -64,7 +64,7 @@
               </p>
               <p>
 	             Fearing this would lead to bad-blood in the group, we decided to present our ideas clearly to the other 
-	             members and let them take the final decision. We proceeded with a whiteboard presentation in front 
+	             members and let them take the final decision. We proceeded with a small whiteboard presentation in front 
 	             of the whole group and finally my idea was selected.
               </p>
               <p>

@@ -43,7 +43,7 @@
               </p>
               <p>
               	Soon after, I was invited for an interview where my to-be supervisor and the LV team manager were present. They asked me 
-              	questions about my projects and experiences which I elaborated as confidently as I could [I'm an introvert :)] and I even 
+              	questions about my projects and experiences which I elaborated as confidently as I could and I even 
               	showed them this website! They seemed pretty impressed so I was fairly optimistic about my placement. Sure enough, I was offered 
               	the internship that very day! It was an extremely joyful moment for me since I was looking forward to working in R&D to understand 
               	how it is after my brief corporate experience with <a href="/bpr?p=moveinsync-blog">MoveInSync</a>, just to experience another flavor of internships.

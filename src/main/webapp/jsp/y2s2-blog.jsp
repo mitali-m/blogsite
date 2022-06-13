@@ -27,10 +27,6 @@
             </div>
             <div class="article-content">
               <p>
-              	I'm writing one article for this semester because not much happened after 
-              	COVID19 set in so there isn't much content to write one article per course.
-              </p>
-              <p>
               	This semester started off like any other with new subjects, classes and professors. The first two months 
               	were alright even though there was news about an infectious disease going around. However, by the time 
               	recess week came in March around it was already a requirement to wear a mask while travelling and 

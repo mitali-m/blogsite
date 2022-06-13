@@ -23,7 +23,7 @@
               <img src="img/moveinsync.png" class="img-fluid" alt="" width="400" height="200">
             </div>
             <div class="post-meta">
-              <h1 class="article-title">First corporate experience? How did I do?</h1>
+              <h1 class="article-title">First corporate experience</h1>
             </div>
             <div class="article-content">
               <p>

@@ -55,7 +55,7 @@
                 a point where all the group members were looking to me for confirmation and validation of their work 
                 which was also very stressful for me to manage. However, despite the extra work, I took it as a learning 
                 experience and took up the responsibility as the "unofficial team leader". In the end we did well in the 
-                group presentations and scored an A grade.
+                group presentations and scored an A grade for lab work.
               </p>
               <p>
                 One major thing I learnt from my experience is that in group projects, someone always has to go the extra 
