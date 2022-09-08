@@ -98,7 +98,7 @@
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
-		           <h6 class="category">NTU Year 3</h6>
+		           <h6 class="category">...</h6>
 		         </div>
 		       </div>
 		       <h3 class="card-title"><a href="#">Coding in Progress...</a></h3>
@@ -178,6 +178,64 @@
             </div>
           </div>
         </div>
+        
+        <!-- blog FIXED-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=fyp-blog"><img src="img/fyp.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Research</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=fyp-blog">Final Year Project</a></h3>
+              <p class="card-description">
+                Gaining more research experience in a new area
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 10 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+         <!-- blog FIXED-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=ureca-blog"><img src="img/ureca.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">Research</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=ureca-blog">Undergraduate Research</a></h3>
+              <p class="card-description">
+                An experience to be remembered! An extremely tough, new challenge with immense learning outcomes
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8 min
+              </div>
+            </div>
+          </div>
+        </div>
          
 		 <!-- blog FIXED-->
 		 <div class="col-md-4">
@@ -207,23 +265,30 @@
             </div>
           </div>
         </div>
-         
         
-        <!-- blog FIXED-->      
+        <!-- DIVIDER -->
+        <div class="col-md-12">
+        	<div class="blog-divider"></div>
+        </div>
+        <!-- DIVIDER -->
+        
+        <!-- blog 26-->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=ureca-blog"><img src="img/ureca.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=dsp-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">Research</h6>
+                  <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=ureca-blog">Undergraduate Research</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=dsp-blog">Digital Signal Processing</a></h3>
               <p class="card-description">
-                An experience to be remembered! An extremely tough, new challenge with immense learning outcomes
+                ??
+                <br>
+                <br>
               </p>
             </div>
             <div class="card-footer">
@@ -232,7 +297,286 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8 min
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 25-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=ml-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 4</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=ml-blog">Machine Learning</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 24-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=inforet-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 4</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=inforet-blog">Information Retrieval</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 23-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=digicom-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 4</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=digicom-blog">Digital Communications</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 22-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=advalgo-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 4</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=advalgo-blog">Advanced Algorithms</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 21-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=cv-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 4</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=cv-blog">Computer Vision</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 20-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=nlp-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 4</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=nlp-blog">Natural Language Processing</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 19-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=sensors-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 3</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=sensors-blog">Sensors and Interfacing</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 18-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=cn-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 3</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=cn-blog">Computer Networks</a></h3>
+              <p class="card-description">
+                ??
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 17-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=nndl-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 3</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=nndl-blog">Neural Networks</a></h3>
+              <p class="card-description">
+                My official entry into the area of deep learning
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span> 8.5 min
               </div>
             </div>
           </div>
@@ -691,7 +1035,7 @@
         <div class="col-sm-12">
           <div class="title-box text-center">
     		<h2 class="title">
-              More Content Is On The Way!!
+              More content is always brewing :)
             </h2>
           </div>
         </div>

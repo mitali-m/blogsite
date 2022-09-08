@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/ureca.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">Research in the second year of university?</h1>
-            </div>
             <div class="article-content">
              <p>
                 Undergraduate Research Experience on Campus (URECA) is an invite-only research program 

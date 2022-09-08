@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/ko.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">Who said singing and dancing are the only talents?</h1>
-            </div>
             <div class="article-content">
               <p>
               	My best friend introduced me to the world of Korean drama (K-drama) in 2015 which was much before it became 

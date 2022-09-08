@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/panasonic.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">An enriching six month internship!</h1>
-            </div>
             <div class="article-content">
               <p>
               	NTU requires all students to complete a five month internship as a graduation requirement. The university provides an internship search 

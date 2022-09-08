@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/os.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">Taking interest in something makes it a lot easier to study and cope with!</h1>
-            </div>
             <div class="article-content">
               <p>
                 Operating Systems was an interesting course in my fourth semester at university. It was slightly 

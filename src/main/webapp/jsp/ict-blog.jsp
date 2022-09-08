@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/ict.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">How can you handle new programming languages?</h1>
-            </div>
             <div class="article-content">
               <p>
                 I had already had many "first" experiences in university, and adding to the list is one more 

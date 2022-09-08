@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/emath.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">How far can high school help you at university?</h1>
-            </div>
             <div class="article-content">
               <p>
                 At NTU they divide math across 3 subjects - Engineering Math(I and II) and 

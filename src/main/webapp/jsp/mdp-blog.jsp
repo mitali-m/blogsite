@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/mdp.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">Constant effort is key</h1>
-            </div>
             <div class="article-content">
               <p>
               	Multidisciplinary Design Project, or MDP for short, is the only course in the whole Computer Engineering 

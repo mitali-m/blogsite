@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/moveinsync.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">First corporate experience</h1>
-            </div>
             <div class="article-content">
               <p>
                 Amidst the disruption caused by the COVID-19 situation, I was stuck in Singapore for the whole summer of 2020. 

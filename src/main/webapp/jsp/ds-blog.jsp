@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/ds.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">A familiar street in a new city...</h1>
-            </div>
             <div class="article-content">
               <p>
                 Data structures was my solace among all the other hectic subjects of semester 2. 

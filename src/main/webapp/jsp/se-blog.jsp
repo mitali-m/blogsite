@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/se.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">An important group project experience</h1>
-            </div>
             <div class="article-content">
               <p>
 	             Another one of the major project based courses at NTU, Software Engineering focuses on a 

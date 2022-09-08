@@ -67,7 +67,7 @@
             <a class="nav-link js-scroll" href="#about">About</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link js-scroll" href="#service">Projects</a>
+            <a class="nav-link js-scroll" href="#service">Experience</a>
           </li>
           <li class="nav-item">
             <a class="nav-link js-scroll" href="#blog">Blogs</a>
@@ -109,24 +109,24 @@
                 </div>
                 <div class="skill-mf">
                   <p class="title-s">Skills</p>
-                  <span>Java</span> <span class="pull-right">80%</span>
+                  <span>Java</span> <span class="pull-right">65%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 80%;" aria-valuenow="80" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 65%;" aria-valuenow="65" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
-                  <span>Python</span> <span class="pull-right">75%</span>
+                  <span>Python</span> <span class="pull-right">80%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 80%" aria-valuenow="80" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>TensorFlow 2 with Keras</span> <span class="pull-right">60%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 65%" aria-valuenow="65" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 60%" aria-valuenow="60" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>OpenCV</span> <span class="pull-right">75%</span>
                   <div class="progress">
-                    <div class="progress-bar" role="progressbar" style="width: 70%" aria-valuenow="70" aria-valuemin="0"
+                    <div class="progress-bar" role="progressbar" style="width: 75%" aria-valuenow="75" aria-valuemin="0"
                       aria-valuemax="100"></div>
                   </div>
                   <span>C</span> <span class="pull-right">45%</span>
@@ -187,10 +187,10 @@
         <div class="col-sm-12">
           <div class="title-box text-center">
             <h3 class="title-a">
-              Projects
+              Experience
             </h3>
             <h4 class="title">
-              My projects at NTU
+              Internship experiences and projects at NTU
             </h4>
             <div class="line-mf"></div>
           </div>
@@ -230,7 +230,7 @@
               </p>
             </div>
           </div>
-        </div>
+        </div> 
         
         <div class="col-md-6">
           <div class="service-box">
@@ -262,6 +262,40 @@
             </div>
           </div>
         </div>
+        
+        <div class="col-md-12">
+          <div class="service-box">
+            <div class="service-ico">
+              <span class="ico-circle"><i class="ion-search"></i></span>
+            </div>
+            <div class="service-content">
+              <h2 class="s-title"> <a href="/bpr?p=fyp-blog"> FYP@NTU </a> </h2>
+              <p class="s-description text-center">
+                Worked on a to-be-patented brain image registration project for the whole final year at NTU;
+                coded in Python using PyTorch and other libraries to successfully perform registration. <br/>
+                The project is featured on the 
+                <a href="https://www.ntu.edu.sg/scse/news-events/news/technovation-2022#Content_C005_Col02">NTU Technovation 2022</a> 
+                page along with other notable FYPs.
+                Below is my presentation video from the NTU SCSE YouTube Channel.
+              </p>
+            </div>
+            <div style="text-align: center;">
+            	<iframe width="400" height="250" src="https://www.youtube.com/embed/xVunX1qZI80" marginwidth="1rem" title="65 Mukherjee Mitali Nirmallya - 3D Multi Modality Medical Image Registration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          	</div>
+          </div>
+        </div>
+        
+<!--         <div class="col-md-6"> -->
+<!--           <div class="service-box"> -->
+<!--           	<div class="service-video"> -->
+<!--             	<iframe width="400" height="250" src="https://www.youtube.com/embed/xVunX1qZI80" marginwidth="1rem" title="65 Mukherjee Mitali Nirmallya - 3D Multi Modality Medical Image Registration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe> -->
+<!--           	</div> -->
+<!--              <p class="s-description text-center"> -->
+<!--                FYP Presentation Video uploaded to NTU SCSE YouTube Channel -->
+<!--              </p> -->
+<!--           </div> -->
+<!--         </div> -->
+        
 <!--         <div class="col-md-6"> -->
 <!--           <div class="service-box"> -->
 <!--             <div class="service-ico"> -->
@@ -324,8 +358,8 @@
               <span class="ico-circle"><i class="ion-android-clipboard"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">4.47</p>
-              <span class="counter-text">CURRENT CGPA</span>
+              <p class="counter">4.51</p>
+              <span class="counter-text">FINAL CGPA</span>
             </div>
           </div>
         </div>
@@ -335,11 +369,22 @@
               <span class="ico-circle"><i class="ion-checkmark-round"></i></span>
             </div>
             <div class="counter-num">
-              <p class="counter">36</p>
+              <p class="counter">44</p>
               <span class="counter-text">NTU COURSES COMPLETED</span>
             </div>
           </div>
         </div>
+<!--         <div class="col-sm-3 col-lg-3"> -->
+<!--           <div class="counter-box pt-4 pt-md-0"> -->
+<!--             <div class="counter-ico"> -->
+<!--               <span class="ico-circle"><i class="ion-checkmark-round"></i></span> -->
+<!--             </div> -->
+<!--             <div class="counter-num"> -->
+<!--               <p class="counter">12</p> -->
+<!--               <span class="counter-text">NTU PROJECTS COMPLETED</span> -->
+<!--             </div> -->
+<!--           </div> -->
+<!--         </div> -->
         <div class="col-sm-3 col-lg-3">
           <div class="counter-box pt-4 pt-md-0">
             <div class="counter-ico">
@@ -378,7 +423,7 @@
               Blogs
             </h3>
     		<h4 class="title">
-              Just a few of my thoughts and experiences.
+              Just a few of my thoughts and experiences
             </h4>
             <div class="line-mf"></div>
            	  <p style="margin-bottom:1.5cm;"></p>

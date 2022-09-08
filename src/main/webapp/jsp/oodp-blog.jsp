@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/oodp.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">A good opportunity to apply theory into a practical problem</h1>
-            </div>
             <div class="article-content">
               <p>
                 This was the first official Java programming course at NTU. Though the emphasis was on Object Oriented 

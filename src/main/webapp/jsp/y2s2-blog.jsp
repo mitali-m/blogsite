@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/y2s2.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">A difficult period for all of us</h1>
-            </div>
             <div class="article-content">
               <p>
               	This semester started off like any other with new subjects, classes and professors. The first two months 

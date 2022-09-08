@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/csa.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">Interesting and Practical</h1>
-            </div>
             <div class="article-content">
               <p>
 	             The first part of this subject was about solving circuit diagrams using various rules such as voltage and 

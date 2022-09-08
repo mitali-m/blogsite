@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/up.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">Never give up!</h1>
-            </div>
             <div class="article-content">
               <p>
                 Microprocessors was the most difficult course in second year. The main concepts were not very heavy, 

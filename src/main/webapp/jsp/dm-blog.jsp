@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/dm.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">How deep into the content should you go?</h1>
-            </div>
             <div class="article-content">
               <p>
                 The second round of math at NTU was Discrete Math. This module was more about logical 

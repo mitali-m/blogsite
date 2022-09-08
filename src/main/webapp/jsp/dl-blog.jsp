@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/dl.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">What do you do when you're faced with something completely new?</h1>
-            </div>
             <div class="article-content">
               <p>
                 Digital Logic was another instance of something I had almost never seen before. It was an introduction 

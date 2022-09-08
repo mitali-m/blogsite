@@ -24,12 +24,12 @@ h6 {
 }
 
 a {
-  color: #1e1e1e;
+  color: #0078ff;
   transition: all 0.5s ease-in-out;
 }
 
 a:hover {
-  color: #0078ff;
+  color: #E1C16E;
   text-decoration: none;
   transition: all 0.5s ease-in-out;
 }
@@ -162,6 +162,15 @@ a:hover {
   height: 5px;
   background-color: #0078ff;
   margin: 0 auto;
+}
+
+.blog-divider {
+  width: 80%;
+  height: 5px;
+  background-color: #0078ff;
+  margin: auto;
+  margin-top: -1rem;
+  margin-bottom: 2rem;
 }
 
 /*--/ Title Left /--*/

@@ -22,9 +22,6 @@
             <div class="post-thumb">
               <img src="img/dsai.png" class="img-fluid" alt="" width="400" height="200">
             </div>
-            <div class="post-meta">
-              <h1 class="article-title">A new and interesting subject</h1>
-            </div>
             <div class="article-content">
               <p>
                 Talking robots are a thing of the past. Today, we want self-learning robots who can both 
