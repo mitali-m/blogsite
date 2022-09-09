@@ -91,14 +91,14 @@
               	we found a few helpful solutions such as cropping out only the essential parts of the image for registration and 
               	performing affine alignment on the images before registration. Of the solutions attempted, affine alignment gave 
               	us the best results. Further experimentation was conducted on not only our framework but also other prominently 
-              	used methodologies to observe the behaviour if each system with the new dataset.
+              	used methodologies to observe the behaviour of each system with the new dataset.
               </p>
               <p>
               	Once we achieved sufficiently good results, we validated that our method had the 
               	best performance using K-Fold Cross Validation and hyperparameter tuning.
               </p>
               <p>
-              	The experiments and coding were performed on the SCSE BioInformatics Laboratory GUP servers. The coding was 
+              	The experiments and coding were performed on the SCSE BioInformatics Laboratory GPU servers. The coding was 
               	all done in Python and the models were built using PyTorch. JupyterLab environment was used to code the 
               	python scripts and Jupyter notebooks where visualisation was needed.
               </p>

@@ -45,9 +45,8 @@
                 in and just brush through the rest. I followed that, but the problem was that I was confident 
                 in probably 3-4 out of around 10 topics, which had me really worried. However, it was already 
                 too late then so I decided to just go write whatever I knew. They say luck comes in unexpected 
-                places, and this exam was one of them for me. I was so worried that the paper would be filler 
-                with UART and not one question came from there! Maybe the examiners felt that many of the 
-                students would have difficulty with that topic so they decided to have some mercy on us :) 
+                places, and this exam was one of them for me. I was so worried that the paper would be filled 
+                with UART and not one question came from there!  
                 Whatever be the case, even though they never tested us on that topic, I was not well prepared 
                 with the other topics either. Considering that, I was proud that I scored above a B- grade.
               </p>

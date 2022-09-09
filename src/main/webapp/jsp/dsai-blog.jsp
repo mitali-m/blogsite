@@ -65,7 +65,7 @@
                 started on the coding. We decided to do a happiness index prediction model and analyse 
                 with interactive graphs. After a lot of hard work, we were able to make the model and get 
                 average prediction results as well. Presenting the project was also a good experience for 
-                me(I have public speaking fright) but since I was clear on our work and the concepts we 
+                me but since I was clear on our work and the concepts we 
                 used, I was able to present without a hitch.
               </p>
               <p>

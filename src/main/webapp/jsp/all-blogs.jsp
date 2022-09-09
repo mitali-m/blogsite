@@ -88,22 +88,22 @@
   <section id="blog" class="blog-mf sect-pt4 route">
     <div class="container">
       <div class="row">
-      
-         <!-- blog TODO -->
+      	 <!-- blog 31 -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
-		       <a href="#"><img src="img/otw.png" alt="" class="img-fluid"></a>
+		       <a href="/bpr?p=ntufinal-blog"><img src="img/ntuoverall.png" alt="" class="img-fluid"></a>
 		     </div>
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
-		           <h6 class="category">...</h6>
+		           <h6 class="category">NTU</h6>
 		         </div>
 		       </div>
-		       <h3 class="card-title"><a href="#">Coding in Progress...</a></h3>
+		       <h3 class="card-title"><a href="/bpr?p=ntufinal-blog"></a>My NTU Experience</h3>
 		       <p class="card-description">
-		       	<br><br><br>
+		       	One Last Blog on NTU
+		       	<br><br>
 		       </p>
 		     </div>
 		     <div class="card-footer">
@@ -118,7 +118,7 @@
 		  </div>
 		</div>
 		
-		<!-- blog FIXED-->
+		<!-- blog 30-->
          <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -149,7 +149,7 @@
           </div>
         </div>
 		
-		<!-- blog FIXED-->
+		<!-- blog 29-->
 		<div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -165,7 +165,6 @@
               <p class="card-description">
                 My first corporate experience! A huge eye opener in terms of life in a corporate
               </p>
-              <br>
             </div>
             <div class="card-footer">
               <div class="post-author">
@@ -179,7 +178,7 @@
           </div>
         </div>
         
-        <!-- blog FIXED-->      
+        <!-- blog 28-->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -193,7 +192,7 @@
               </div>
               <h3 class="card-title"><a href="/bpr?p=fyp-blog">Final Year Project</a></h3>
               <p class="card-description">
-                Gaining more research experience in a new area
+                Gaining more research experience in a new area <br>
               </p>
             </div>
             <div class="card-footer">
@@ -208,7 +207,7 @@
           </div>
         </div>
         
-         <!-- blog FIXED-->      
+         <!-- blog 27-->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -237,7 +236,7 @@
           </div>
         </div>
          
-		 <!-- blog FIXED-->
+		 <!-- blog 26-->
 		 <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -272,11 +271,11 @@
         </div>
         <!-- DIVIDER -->
         
-        <!-- blog 26-->      
+        <!-- blog 25-->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=dsp-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=dsp-blog"><img src="img/dsp.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -286,7 +285,7 @@
               </div>
               <h3 class="card-title"><a href="/bpr?p=dsp-blog">Digital Signal Processing</a></h3>
               <p class="card-description">
-                ??
+                A challenging course with a rewarding outcome!
                 <br>
                 <br>
               </p>
@@ -297,38 +296,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
-              </div>
-            </div>
-          </div>
-        </div>
-        
-        <!-- blog 25-->      
-        <div class="col-md-4">
-          <div class="card card-blog">
-            <div class="card-img">
-              <a href="/bpr?p=ml-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
-            </div>
-            <div class="card-body">
-              <div class="card-category-box">
-                <div class="card-category">
-                  <h6 class="category">NTU Year 4</h6>
-                </div>
-              </div>
-              <h3 class="card-title"><a href="/bpr?p=ml-blog">Machine Learning</a></h3>
-              <p class="card-description">
-                ??
-                <br>
-                <br>
-              </p>
-            </div>
-            <div class="card-footer">
-              <div class="post-author">
-                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
-                 <span class="author">Mitali Mukherjee</span>
-              </div>
-              <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span> 
               </div>
             </div>
           </div>
@@ -338,7 +306,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=inforet-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=ml-blog"><img src="img/ml-blog.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -346,9 +314,9 @@
                   <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=inforet-blog">Information Retrieval</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=ml-blog">Machine Learning</a></h3>
               <p class="card-description">
-                ??
+                Many interesting new concepts and more project experience
                 <br>
                 <br>
               </p>
@@ -359,7 +327,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span> 8 min
               </div>
             </div>
           </div>
@@ -369,7 +337,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=digicom-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=inforet-blog"><img src="img/inforet.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -377,9 +345,9 @@
                   <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=digicom-blog">Digital Communications</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=inforet-blog">Information Retrieval</a></h3>
               <p class="card-description">
-                ??
+                I explored a new area through this module and it made for an interesting experience!
                 <br>
                 <br>
               </p>
@@ -390,7 +358,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span> 7 min
               </div>
             </div>
           </div>
@@ -400,7 +368,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=advalgo-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=digicom-blog"><img src="img/digicomm.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -408,9 +376,9 @@
                   <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=advalgo-blog">Advanced Algorithms</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=digicom-blog">Digital Communications</a></h3>
               <p class="card-description">
-                ??
+                An entirely new course with many practical applications
                 <br>
                 <br>
               </p>
@@ -421,7 +389,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span> 
               </div>
             </div>
           </div>
@@ -431,7 +399,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=cv-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=advancedalgo-blog"><img src="img/advalgo.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -439,9 +407,9 @@
                   <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=cv-blog">Computer Vision</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=advancedalgo-blog">Advanced Algorithms</a></h3>
               <p class="card-description">
-                ??
+                One of the most challenging courses in SCSE
                 <br>
                 <br>
               </p>
@@ -452,7 +420,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span>
               </div>
             </div>
           </div>
@@ -462,7 +430,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=nlp-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=cv-blog"><img src="img/cv.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -470,9 +438,9 @@
                   <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=nlp-blog">Natural Language Processing</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=cv-blog">Computer Vision</a></h3>
               <p class="card-description">
-                ??
+                New theoretical aspects of my area of interest
                 <br>
                 <br>
               </p>
@@ -483,7 +451,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span>
               </div>
             </div>
           </div>
@@ -493,17 +461,17 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=sensors-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=nlp-blog"><img src="img/nlp.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">NTU Year 3</h6>
+                  <h6 class="category">NTU Year 4</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=sensors-blog">Sensors and Interfacing</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=nlp-blog">Natural Language Processing</a></h3>
               <p class="card-description">
-                ??
+                Assignment heavy, content heavy course with more group experiences 
                 <br>
                 <br>
               </p>
@@ -514,7 +482,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span>
               </div>
             </div>
           </div>
@@ -524,7 +492,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=cn-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=sensors-blog"><img src="img/sensors.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -532,9 +500,9 @@
                   <h6 class="category">NTU Year 3</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=cn-blog">Computer Networks</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=sensors-blog">Sensors and Interfacing</a></h3>
               <p class="card-description">
-                ??
+                Building a pulse plethysmograph reader using basic circuit elements
                 <br>
                 <br>
               </p>
@@ -545,7 +513,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span> 5 min
               </div>
             </div>
           </div>
@@ -555,7 +523,38 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=nndl-blog"><img src="img/otw.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=cn-blog"><img src="img/compnets.png" alt="" class="img-fluid"></a>
+            </div>
+            <div class="card-body">
+              <div class="card-category-box">
+                <div class="card-category">
+                  <h6 class="category">NTU Year 3</h6>
+                </div>
+              </div>
+              <h3 class="card-title"><a href="/bpr?p=cn-blog">Computer Networks</a></h3>
+              <p class="card-description">
+                Lots of content in a new area, very practical in nature and heavy on lab work
+                <br>
+                <br>
+              </p>
+            </div>
+            <div class="card-footer">
+              <div class="post-author">
+                 <img src="img/testimonial-2.jpg" alt="" class="avatar rounded-circle">
+                 <span class="author">Mitali Mukherjee</span>
+              </div>
+              <div class="post-date">
+                <span class="ion-ios-clock-outline"></span>
+              </div>
+            </div>
+          </div>
+        </div>
+        
+        <!-- blog 16-->      
+        <div class="col-md-4">
+          <div class="card card-blog">
+            <div class="card-img">
+              <a href="/bpr?p=nndl-blog"><img src="img/neuralnets.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -576,13 +575,13 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 8.5 min
+                <span class="ion-ios-clock-outline"></span>
               </div>
             </div>
           </div>
         </div>
         
-        <!-- blog 16-->      
+        <!-- blog 15-->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -613,7 +612,7 @@
           </div>
         </div>
       
-      	 <!-- blog 15 -->
+      	 <!-- blog 14 -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -643,7 +642,7 @@
 		  </div>
 		</div>
       
-         <!-- blog 14 -->
+         <!-- blog 13 -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -659,7 +658,6 @@
 		       <p class="card-description">
 		         Web application development and many lessons on group work
 		       </p>
-		       <br>
 		     </div>
 		     <div class="card-footer">
 		       <div class="post-author">
@@ -673,7 +671,7 @@
 		  </div>
 		</div>
 
-       <!-- blog 12 -->
+       	 <!-- blog 12 -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -689,7 +687,7 @@
 		       <p class="card-description">
 		         Bringing numericals to life!
 		       </p>
-		       <br><br>
+		       <br>
 		     </div>
 		     <div class="card-footer">
 		       <div class="post-author">

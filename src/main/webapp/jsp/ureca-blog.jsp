@@ -46,7 +46,8 @@
               <p>
                 I met with a few professors whose projects interested me, and eventually chose 
                 the project titled 
-                <strong>"Deep Learning Based Network Classification with Little Training"</strong>. 
+                <strong>"Deep Learning Based Network Classification with Little Training"</strong>
+                supervised by <a href="https://homes.cs.aau.dk/~Arijit/">Professor Arijit Khan</a>. 
                 It aimed to develop a way to quickly and accurately classify large amounts of graph 
                 data without the need for a lot of hand labelled training data.
               </p>
