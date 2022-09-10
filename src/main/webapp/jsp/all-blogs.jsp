@@ -88,7 +88,7 @@
   <section id="blog" class="blog-mf sect-pt4 route">
     <div class="container">
       <div class="row">
-      	 <!-- blog 31 -->
+      	 <!-- blog 31 ntu overall -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -118,7 +118,7 @@
 		  </div>
 		</div>
 		
-		<!-- blog 30-->
+		<!-- blog 30 panasonic -->
          <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -149,7 +149,7 @@
           </div>
         </div>
 		
-		<!-- blog 29-->
+		<!-- blog 29 moveinsync -->
 		<div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -178,7 +178,7 @@
           </div>
         </div>
         
-        <!-- blog 28-->      
+        <!-- blog 28 FYP -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -207,7 +207,7 @@
           </div>
         </div>
         
-         <!-- blog 27-->      
+         <!-- blog 27 URECA -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -236,7 +236,7 @@
           </div>
         </div>
          
-		 <!-- blog 26-->
+		 <!-- blog 26 MDP -->
 		 <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -271,7 +271,7 @@
         </div>
         <!-- DIVIDER -->
         
-        <!-- blog 25-->      
+        <!-- blog 25 dsp -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -296,13 +296,13 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 
+                <span class="ion-ios-clock-outline"></span> 5 min
               </div>
             </div>
           </div>
         </div>
         
-        <!-- blog 24-->      
+        <!-- blog 24 ML -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -333,7 +333,7 @@
           </div>
         </div>
         
-        <!-- blog 23-->      
+        <!-- blog 23 info ret -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -364,7 +364,7 @@
           </div>
         </div>
         
-        <!-- blog 22-->      
+        <!-- blog 22 digi comm -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -395,7 +395,7 @@
           </div>
         </div>
         
-        <!-- blog 21-->      
+        <!-- blog 21 advanced algo -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -426,7 +426,7 @@
           </div>
         </div>
         
-        <!-- blog 20-->      
+        <!-- blog 20 comp vision -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -457,7 +457,7 @@
           </div>
         </div>
         
-        <!-- blog 19-->      
+        <!-- blog 19 nlp -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -488,7 +488,7 @@
           </div>
         </div>
         
-        <!-- blog 18-->      
+        <!-- blog 18 sensors -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -519,7 +519,7 @@
           </div>
         </div>
         
-        <!-- blog 17-->      
+        <!-- blog 17 comp nets -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -550,7 +550,7 @@
           </div>
         </div>
         
-        <!-- blog 16-->      
+        <!-- blog 16 neural nets -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -581,7 +581,7 @@
           </div>
         </div>
         
-        <!-- blog 15-->      
+        <!-- blog 15 korean -->      
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -612,7 +612,7 @@
           </div>
         </div>
       
-      	 <!-- blog 14 -->
+      	 <!-- blog 14 y2s2 -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -642,7 +642,7 @@
 		  </div>
 		</div>
       
-         <!-- blog 13 -->
+         <!-- blog 13 software engg -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -671,7 +671,7 @@
 		  </div>
 		</div>
 
-       	 <!-- blog 12 -->
+       	 <!-- blog 12 circuits -->
 		 <div class="col-md-4">
 		   <div class="card card-blog">
 	         <div class="card-img">
@@ -701,7 +701,7 @@
 		  </div>
 		</div>
         
-        <!-- blog 11 -->
+        <!-- blog 11 uP -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -730,7 +730,7 @@
           </div>
         </div>
         
-        <!-- blog 10 -->
+        <!-- blog 10 os -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -759,7 +759,7 @@
           </div>
         </div>
         
-        <!-- blog 9 -->
+        <!-- blog 9 oodp -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -788,7 +788,7 @@
           </div>
         </div>
         
-        <!-- blog 8 -->
+        <!-- blog 8 algo -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -817,7 +817,7 @@
           </div>
         </div>
         
-        <!-- blog 7 -->
+        <!-- blog 7 dats struct -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -846,7 +846,7 @@
           </div>
         </div>
         
-        <!-- blog 6 -->
+        <!-- blog 6 DSAI -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -875,7 +875,7 @@
           </div>
         </div>
         
-        <!-- blog 5 -->
+        <!-- blog 5 coa -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -904,7 +904,7 @@
           </div>
         </div>
         
-        <!-- blog 4 -->
+        <!-- blog 4 dmath -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -934,7 +934,7 @@
           </div>
         </div>
         
-        <!-- blog 3 -->
+        <!-- blog 3 ICT -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -963,7 +963,7 @@
           </div>
         </div>
         
-        <!-- blog 2 -->
+        <!-- blog 2 digital logic -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
@@ -992,7 +992,7 @@
           </div>
         </div>
         
-        <!-- blog 1 -->
+        <!-- blog 1 emath -->
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
