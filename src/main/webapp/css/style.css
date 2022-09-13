@@ -929,6 +929,9 @@ a:hover {
 /*======================================
 //--//-->   BLOG-SINGLE
 ======================================*/
+.post-thumb {
+	text-align: center;
+}
 
 .post-box,
 .form-comments,

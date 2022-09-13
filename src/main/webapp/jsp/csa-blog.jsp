@@ -20,7 +20,7 @@
         <div class="col-md-12">
           <div class="post-box">
             <div class="post-thumb">
-              <img src="img/csa.png" class="img-fluid" alt="" width="400" height="200">
+              <img src="img/csa.png" class="img-fluid" alt="" width="70%">
             </div>
             <div class="article-content">
               <p>

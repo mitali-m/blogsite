@@ -97,10 +97,10 @@
 		     <div class="card-body">
 		       <div class="card-category-box">
 		         <div class="card-category">
-		           <h6 class="category">NTU</h6>
+		           <h6 class="category">Personal</h6>
 		         </div>
 		       </div>
-		       <h3 class="card-title"><a href="/bpr?p=ntufinal-blog"></a>My NTU Experience</h3>
+		       <h3 class="card-title"><a href="/bpr?p=ntufinal-blog">My NTU Experience</a></h3>
 		       <p class="card-description">
 		       	One Last Blog on NTU
 		       	<br><br>
@@ -590,7 +590,7 @@
             <div class="card-body">
               <div class="card-category-box">
                 <div class="card-category">
-                  <h6 class="category">Beyond Computers</h6>
+                  <h6 class="category">Personal</h6>
                 </div>
               </div>
               <h3 class="card-title"><a href="/bpr?p=ko-blog">Korean</a></h3>
