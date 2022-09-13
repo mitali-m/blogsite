@@ -389,7 +389,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span> 
+                <span class="ion-ios-clock-outline"></span> 2 min
               </div>
             </div>
           </div>
@@ -420,7 +420,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span>
+                <span class="ion-ios-clock-outline"></span> 2.5 min
               </div>
             </div>
           </div>
@@ -451,7 +451,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span>
+                <span class="ion-ios-clock-outline"></span> 2.5 min
               </div>
             </div>
           </div>
@@ -482,7 +482,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span>
+                <span class="ion-ios-clock-outline"></span> 3 min
               </div>
             </div>
           </div>
@@ -523,7 +523,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=cn-blog"><img src="img/compnets.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=compnetworks-blog"><img src="img/compnets.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -531,7 +531,7 @@
                   <h6 class="category">NTU Year 3</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=cn-blog">Computer Networks</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=compnetworks-blog">Computer Networks</a></h3>
               <p class="card-description">
                 Lots of content in a new area, very practical in nature and heavy on lab work
                 <br>
@@ -544,7 +544,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span>
+                <span class="ion-ios-clock-outline"></span> 1.5 min
               </div>
             </div>
           </div>
@@ -554,7 +554,7 @@
         <div class="col-md-4">
           <div class="card card-blog">
             <div class="card-img">
-              <a href="/bpr?p=nndl-blog"><img src="img/neuralnets.png" alt="" class="img-fluid"></a>
+              <a href="/bpr?p=neuralnets-blog"><img src="img/neuralnets.png" alt="" class="img-fluid"></a>
             </div>
             <div class="card-body">
               <div class="card-category-box">
@@ -562,7 +562,7 @@
                   <h6 class="category">NTU Year 3</h6>
                 </div>
               </div>
-              <h3 class="card-title"><a href="/bpr?p=nndl-blog">Neural Networks</a></h3>
+              <h3 class="card-title"><a href="/bpr?p=neuralnets-blog">Neural Networks</a></h3>
               <p class="card-description">
                 My official entry into the area of deep learning
                 <br>
@@ -575,7 +575,7 @@
                  <span class="author">Mitali Mukherjee</span>
               </div>
               <div class="post-date">
-                <span class="ion-ios-clock-outline"></span>
+                <span class="ion-ios-clock-outline"></span> 7 min
               </div>
             </div>
           </div>

@@ -69,7 +69,9 @@
                 used, I was able to present without a hitch.
               </p>
               <p>
-              	This course was the major factor why I decided to do my URECA project in year 2 on deep learning. 
+              	This course was the major factor why I decided to do my 
+              	<a href="/bpr?p=ureca-blog">URECA project </a> 
+              	in year 2 on deep learning. 
               	DSAI was a course that opened to me the doors to a whole new world and I'm beyond excited to see 
               	what lies in store for me there!
               </p>

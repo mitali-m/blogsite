@@ -34,9 +34,11 @@
 	             on physical breadboards and observe time constants and perform other calculations. This interested me quite a bit
 	             because there aren't many opportunities to physically observe things we only ever learn to calculate in books.
               </p>
+              <p>
 	             The second part was a little more theoretical in the sense that it dealt with signal processing and we had no 
 	             physical lab experiments for it. It scratched the surface of Fourier and LaPlace transforms and how they 
 	             are used to convert signals from the time domain to other domains for further analysis.
+              </p>
               <p>
 	             The final exam was also quite relevant to the syllabus and I was well prepared so I did quite well and 
 	             achieved an A grade. The knowledge from this subject also proved to be quite helpful in a year 3 semester 

@@ -26,7 +26,7 @@
               <p>
               	Information Retrieval was another technical elective I had taken in the final semester. It was divided into 
               	three assessment components- the first being a quiz, the second was a project and the third one was the final 
-              	exam. The quizzes were of low weightage but the project was 35% making it quite a high-weightage important project.
+              	exam. The quiz was of low weightage but the project was 35% making it quite a high-weightage important project.
               </p>
               <p>
               	The concepts dealt with were different methods and algorithms used for information retrieval such as the boolean 
@@ -73,12 +73,14 @@
               <p>
               	Since the assignment deadline was about two weeks before the exam, we had a few extra days to study for it, 
               	unlike the situation with the Machine Learning assignment. But even so, this was only one of the first 
-              	deadlines of the semester. I had to manage the machine learning assignment, studying for three exams 
+              	deadlines of the semester. I still had to manage the 
+              	<a href="/bpr?p=ml-blog">machine learning assignment</a>
+              	, studying for three exams 
               	and the FYP load despite having submitted this project. 
               </p>
               <p>
               	In spite of the situation, I managed to do well in the exam, which stayed true to the pattern indicated in the past 
-              	papers which gave me a good idea on what to expect. The hard work paid off as a final A grade!
+              	papers which gave me a good idea on what to expect. The efforts and hard work paid off as a final A grade!
               </p>
             </div>
           </div>
