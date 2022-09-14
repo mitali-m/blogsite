@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/csa.png" class="img-fluid" alt="" width="70%">
@@ -42,7 +42,8 @@
               <p>
 	             The final exam was also quite relevant to the syllabus and I was well prepared so I did quite well and 
 	             achieved an A grade. The knowledge from this subject also proved to be quite helpful in a year 3 semester 
-	             1 course called Sensors, Control and Interfacing which built on the topics introduced in part two of the course.
+	             1 course called <a href="/bpr?p=sensors-blog">Sensors, Control and Interfacing</a> 
+	             which built on the topics introduced in part two of the course.
               </p>
               <p>
 	             Overall Circuits and Signal Analysis was an interesting subject with a lot of math and 
@@ -51,6 +52,33 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Thevenin's Theorem</li>
+      					<li>Kirchoff's Law</li>
+      					<li>LaPlace Transformations</li>
+      					<li>Math-Based</li>
+      					<li>A Grade</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=sensors-blog">Sensors, Interfacing and Control</a></li>
+      					<li><a href="/bpr?p=oodp-blog">Object-Oriented Programming</a></li>
+      					<li><a href="/bpr?p=os-blog">Operating Systems</a></li>
+      					<li><a href="/bpr?p=up-blog">Microprosessor-Based Systems Design</a></li>
+      					<li>bolod</li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

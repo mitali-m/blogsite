@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/digicomm.png" class="img-fluid" alt="" width="70%">
@@ -53,7 +53,7 @@
               	integration and algebraic methods. It took me quite a bit of practice to wrap my head around this 
               	topic as the math itself was not very intuitive and the problems were also quite complicated. Repeatedly 
               	solving the past papers and tutorials helped with this and I was better at, although not entirely 
-              	confident in, this topic before the final exam.breeze through them.
+              	confident in, this topic before the final exam.
               </p>
               <p>
               	The module also had a group project where we needed to form groups of five and build a communication 
@@ -68,6 +68,30 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Linear and Cyclic Codes</li>
+      					<li>Noise in Signals</li>
+      					<li>Math-Based</li>
+      					<li>A Grade</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=nlp-blog">Natural Language Processing</a></li>
+      					<li><a href="/bpr?p=cv-blog">Computer Vision</a></li>
+      					<li><a href="/bpr?p=advancedalgo-blog">Advanced Topics in Algorithms</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

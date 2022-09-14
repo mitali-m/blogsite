@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/emath.png" class="img-fluid" alt="" width="70%">
@@ -66,6 +66,30 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Linear Algebra</li>
+      					<li>Integration</li>
+      					<li>Differentiation</li>
+      					<li>Series and Sequences</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=neuralnets-blog">Neural Networks and Deep Learning</a></li>
+      					<li><a href="/bpr?p=dl-blog">Digital Logic</a></li>
+						<li><a href="/bpr?p=ict-blog">Introduction to Computational Thinking</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

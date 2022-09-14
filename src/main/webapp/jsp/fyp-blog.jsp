@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/fyp.png" class="img-fluid" alt="" width="70%">
@@ -49,12 +49,12 @@
               	during the summer to work on their projects.
               </p>
               <p>
-              Once I was allocated the project, the professor gave me a few research papers to read and study the concepts 
-              relevant to the project. I was also given access to the GitHub repository with the code I was to work on. I 
-              spent the summer before the official start of the project term studying the concepts such as the properties of 
-              different kinds of medical scans such as CT and MRI, as well as the definition and kinds of image registration. 
-              I also did some research on the current methods and their performance since the project was pending a patent, 
-              and also learning some basic PyTorch coding.
+	              Once I was allocated the project, the professor gave me a few research papers to read and study the concepts 
+	              relevant to the project. I was also given access to the GitHub repository with the code I was to work on. I 
+	              spent the summer before the official start of the project term studying the concepts such as the properties of 
+	              different kinds of medical scans such as CT and MRI, as well as the definition and kinds of image registration. 
+	              I also did some research on the current methods and their performance since the project was pending a patent, 
+	              and also learning some basic PyTorch coding.
               </p>
               <p>
               	This project was started the year before by another FYP student. However, she was unable to complete it to 
@@ -121,6 +121,34 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Computer Vision</li>
+      					<li>Bioinformatics</li>
+      					<li>CT-MRI Registration</li>
+      					<li>Patent Application</li>
+      					<li>Research</li>
+      					<li>Python</li>
+      					<li>PyTorch</li>
+      					<li>A+ Grade</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=moveinsync-blog">Internship@MoveInSync</a></li>
+      					<li><a href="/bpr?p=panasonic-blog">Internship@Panasonic</a></li>
+      					<li><a href="/bpr?p=cv-blog">Computer Vision</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

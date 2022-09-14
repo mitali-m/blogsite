@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/se.png" class="img-fluid" alt="" width="70%">
@@ -98,7 +98,32 @@
             </div>
           </div>
         </div>
-      </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Java</li>
+      					<li>SpringBoot Framework</li>
+      					<li>MVC Design Pattern</li>
+      					<li>Web Development</li>
+      					<li>UML</li>
+      					<li>Group Project Experience</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=oodp-blog">Object-Oriented Programming</a></li>
+      					<li><a href="/bpr?p=y2s2-blog">Year 2 Semester 2</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
+      	</div>
     </div>
   </section>
   <!--/ Section Blog-Single End /-->

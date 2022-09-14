@@ -6,7 +6,7 @@
     <div class="intro-content display-table">
       <div class="table-cell">
         <div class="container">
-          <h2 class="intro-title mb-4">All about Year 2 Sem 2</h2>
+          <h2 class="intro-title mb-4">All about Year 2 Semester 2</h2>
         </div>
       </div>
     </div>
@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/y2s2.png" class="img-fluid" alt="" width="70%">
@@ -50,13 +50,13 @@
               <dl>
 			    <dt>Advanced Computer Architecture</dt>
 			  		<dd>
-					  &nbsp;&nbsp;&nbsp;&nbsp; It builds upon the concepts taught in <a href = "/bpr?p=se-blog">Computer Organisation and Architecture</a> 
+					  &nbsp;&nbsp;&nbsp;&nbsp; It builds upon the concepts taught in <a href = "/bpr?p=coa-blog">Computer Organisation and Architecture</a> 
 					  from year 1 semester 2. It introduces more detailed concepts of assembly language programming through 
 					  practical labs and informative lectures.
 			  		</dd>
 			  	<dt>Digital Systems Design</dt>
 			  		<dd>
-					  &nbsp;&nbsp;&nbsp;&nbsp; It builds on <a href = "/bpr?p=se-blog">Digital Logic</a> 
+					  &nbsp;&nbsp;&nbsp;&nbsp; It builds on <a href = "/bpr?p=dl-blog">Digital Logic</a> 
 					  taught in year 1 semester 1. The concepts covered deal with adders, 
 					  multiplexers, LUTs (Look-Up Tables) and other types of circuits. One especially interesting 
 					  lab was where we were tasked to change the colour and resolution of a camera input using the 
@@ -98,6 +98,31 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Computer Architecture</li>
+      					<li>Multiplexers</li>
+      					<li>Look Up Tables</li>
+      					<li>Arduino</li>
+      					<li>Group Project Experience</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href = "/bpr?p=se-blog">Software Engineering</a></li>
+      					<li><a href = "/bpr?p=coa-blog">Computer Organisation and Architecture</a></li>
+      					<li><a href = "/bpr?p=dl-blog">Digital Logic</a> </li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

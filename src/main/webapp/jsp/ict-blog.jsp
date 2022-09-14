@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/ict.png" class="img-fluid" alt="" width="70%">
@@ -35,7 +35,7 @@
                 and English-like, but as the labs progressed I started getting more comfortable with it. In the final 
                 lab, I was able to write the Python code to model a rolling ball game on the RPi SenseHat display module. 
                 My experiences with Google from Engineering Math 2 encouraged me to use the internet without being afraid 
-                of finding complicated, confidence destroying answers to my basic questions.
+                of finding complicated, confidence-destroying answers to my basic questions.
               </p>
               <p>
 	            Another new thing this course taught was data structures in Python. Though they only taught only binary trees 
@@ -64,6 +64,31 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Python</li>
+      					<li>Group Project Experience</li>
+      					<li>Raspberry Pi</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=dsai-blog">Data Science and Artificial Intelligence</a></li>
+      					<li><a href="/bpr?p=ds-blog">Data Structures</a></li>
+      					<li><a href="/bpr?p=em-blog">Engineering Mathematics</a></li>
+      					<li><a href="/bpr?p=dm-blog">Discrete Mathematics</a></li>
+      					<li><a href="/bpr?p=dl-blog">Digital Logic</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

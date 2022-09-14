@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/oodp.png" class="img-fluid" alt="" width="70%">
@@ -45,11 +45,38 @@
                 This project also involved a report about the design principles and OOP concepts we used, and the test cases 
                 we validated our application on. Writing the report was a good opportunity for me to learn good documentation 
                 practices, and learn how best to explain technical aspects on paper. The skills I acquired here were also very 
-                helpful in a future documentation-centric project in another course called Software Engineering in the next semester.
+                helpful in a future documentation-centric project in another course called 
+                <a href="/bpr?p=se-blog">Software Engineering</a> in the next semester.
               </p>
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>OOP Concepts</li>
+      					<li>Java</li>
+      					<li>Group Project Experience</li>
+      					<li>A Grade</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=se-blog">Software Engineering</a></li>
+      					<li><a href="/bpr?p=os-blog">Operating Systems</a></li>
+      					<li><a href="/bpr?p=csa-blog">Circuits and Signal Analysis</a></li>
+      					<li><a href="/bpr?p=up-blog">Microprosessor-Based Systems Design</a></li>
+      					<li><a href="/bpr?p=algo-blog">Algorithms</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

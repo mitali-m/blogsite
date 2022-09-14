@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/nlp.png" class="img-fluid" alt="" width="70%">
@@ -71,6 +71,31 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>POS Tagging</li>
+      					<li>Character and Word Based Models</li>
+      					<li>Named Entity Recognition</li>
+      					<li>Python</li>
+      					<li>Group Project Experience</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=advancedalgo-blog">Advanced Topics in Algorithms</a></li>
+      					<li><a href="/bpr?p=digicomm-blog">Digital Communications</a></li>
+      					<li><a href="/bpr?p=cv-blog">Computer Vision</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

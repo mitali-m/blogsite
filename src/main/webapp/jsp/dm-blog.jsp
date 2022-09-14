@@ -6,7 +6,7 @@
     <div class="intro-content display-table">
       <div class="table-cell">
         <div class="container">
-          <h2 class="intro-title mb-4">Discrete Math</h2>
+          <h2 class="intro-title mb-4">Discrete Mathematics</h2>
         </div>
       </div>
     </div>
@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/dm.png" class="img-fluid" alt="" width="70%">
@@ -53,9 +53,37 @@
                 From this module I was able to appreciate the need for attention to detail and how important 
                 it is to go beyond superficial learning.
               </p>
+              <p>
+              	i also scored an A grade for this module which gave me the opportunity to solve my paper 
+              	again and submit the solution as a guide to the next batch of students taking this module. 
+              </p>
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Truth Tables</li>
+      					<li>Logical Operators</li>
+      					<li>Euler and Hamilton Paths</li>
+      					<li>A Grade</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=em-blog">Engineering Mathematics</a></li>
+      					<li><a href="/bpr?p=dl-blog">Digital Logic</a></li>
+      					<li><a href="/bpr?p=coa-blog">Computer Organisation and Architecture</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

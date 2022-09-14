@@ -280,7 +280,7 @@
               </p>
             </div>
             <div style="text-align: center;">
-            	<iframe width="400" height="250" src="https://www.youtube.com/embed/xVunX1qZI80" marginwidth="1rem" title="65 Mukherjee Mitali Nirmallya - 3D Multi Modality Medical Image Registration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+            	<iframe width="auto" height="250" src="https://www.youtube.com/embed/xVunX1qZI80" marginwidth="1rem" title="65 Mukherjee Mitali Nirmallya - 3D Multi Modality Medical Image Registration" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
           	</div>
           </div>
         </div>
@@ -348,7 +348,7 @@
 
 
   <!--/ Counter Start /-->
-  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/overlay-bg.jpg)">
+  <div class="section-counter paralax-mf bg-image" style="background-image: url(img/overlay-bg-orig.jpg)">
     <div class="overlay-mf"></div>
     <div class="container">
       <div class="row">

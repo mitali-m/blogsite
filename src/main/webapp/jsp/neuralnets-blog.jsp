@@ -17,7 +17,7 @@
   <section class="blog-wrapper sect-pt4" id="blog">
     <div class="container">
       <div class="row">
-        <div class="col-md-12">
+        <div class="col-md-8">
           <div class="post-box">
             <div class="post-thumb">
               <img src="img/neuralnets.png" class="img-fluid" alt="" width="70%">
@@ -67,7 +67,7 @@
               	 of us had experience with. I tried my best to convince the group of my reasoning which was to prioritise getting a 
               	 good grade in the module since all of us had room for improvement in our assignments. We needed to have a good 
               	 project to give us that boost to get a good final grade. So finally, we decided to go with a Computer Vision 
-              	 related project titled "Plant Pathology Analysis". The project was a multi-class classification problem that 
+              	 related project titled <strong>"Plant Pathology Analysis"</strong>. The project was a multi-class classification problem that 
               	 aimed to determine which disease a plant has by examining images of its leaves. 
               </p>
               <p>
@@ -84,6 +84,34 @@
             </div>
           </div>
         </div>
+      	<div class="col-md-4">
+      		<div class="widget-sidebar widget-tags">
+      			<h5 class="sidebar-title">Keywords</h5>
+      			<div class="sidebar-content">
+      				<ul class="tag-content">
+      					<li>Linear Algebra</li>
+      					<li>Neural Networks</li>
+      					<li>Kaggle Competition</li>
+      					<li>Python</li>
+      					<li>TensorFlow</li>
+      					<li>Group Project Experience</li>
+      				</ul>
+      			</div>
+      		</div>
+      		<div class="widget-sidebar">
+      			<h5 class="sidebar-title">More Posts</h5>
+      			<h6>Courses taken in the same semester or experiences with related concepts</h6>
+      			<div class="sidebar-content">
+      				<ul class="list-sidebar">
+      					<li><a href="/bpr?p=ml-blog">Machine Learning</a></li>
+      					<li><a href="/bpr?p=fyp-blog">Final Year Project</a></li>
+      					<li><a href="/bpr?p=mdp-blog">MultiDisciplinary Design Project</a></li>
+      					<li><a href="/bpr?p=sensors-blog">Sensors, Interfacing and Control</a></li>
+      					<li><a href="/bpr?p=compnetworks-blog">Computer Networks</a></li>
+      				</ul>
+      			</div>
+      		</div>
+      	</div>
       </div>
     </div>
   </section>

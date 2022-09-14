@@ -173,6 +173,13 @@ a:hover {
   margin-bottom: 2rem;
 }
 
+@media screen and (max-width: 768px) {
+	.blog-divider {
+	    margin-bottom: 1rem;
+	    margin-top: 1rem;
+	}
+  }
+
 /*--/ Title Left /--*/
 
 .title-box-2 {
@@ -257,6 +264,10 @@ a:hover {
 .list-ico span {
   color: #0078ff;
   margin-right: 10px;
+}
+
+.tag-content {
+	color: white;
 }
 
 /*------/ Ico Circle /------*/
@@ -931,6 +942,7 @@ a:hover {
 ======================================*/
 .post-thumb {
 	text-align: center;
+	margin-bottom: 1rem;
 }
 
 .post-box,
