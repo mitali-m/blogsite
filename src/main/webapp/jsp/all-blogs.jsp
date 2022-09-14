@@ -112,7 +112,7 @@
 		         <span class="author">Mitali Mukherjee</span>
 		      </div>
 		      <div class="post-date">
-		        <span class="ion-ios-clock-outline"></span> 
+		        <span class="ion-ios-clock-outline"></span> 15 min
 		      </div>
 		    </div>
 		  </div>
@@ -192,7 +192,7 @@
               </div>
               <h3 class="card-title"><a href="/bpr?p=fyp-blog">Final Year Project</a></h3>
               <p class="card-description">
-                Gaining more research experience in a new area <br>
+                Gaining more research experience in a new area <br><br>
               </p>
             </div>
             <div class="card-footer">
