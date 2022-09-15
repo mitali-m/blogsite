@@ -90,7 +90,7 @@
       					<li><a href="/bpr?p=algo-blog">Algorithms</a></li>
       					<li><a href="/bpr?p=nlp-blog">Natural Language Processing</a></li>
       					<li><a href="/bpr?p=cv-blog">Computer Vision</a></li>
-      					<li><a href="/bpr?p=digicomm-blog">Digital Communications</a></li>
+      					<li><a href="/bpr?p=digicomms-blog">Digital Communications</a></li>
       				</ul>
       			</div>
       		</div>
