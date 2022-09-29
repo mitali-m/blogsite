@@ -4,7 +4,7 @@
 
 Access my site at www.mitalispace.com
 
-Features:
+**Features:**
 - SpringBoot framework for backend
 - HTML for frontend using the [DevFolio](https://bootstrapmade.com/devfolio-bootstrap-portfolio-html-template/) template from Bootstrapmade
 - Currently deployed on EC2 instance
